@@ -1,0 +1,3 @@
+[submodule "themes/redlounge"]
+	path = themes/redlounge
+	url = git@github.com:tmaiaroto/hugo-redlounge.git
