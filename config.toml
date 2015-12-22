@@ -1,3 +1,13 @@
 baseurl = "http://blog.jolexa.net.s3-website-us-west-2.amazonaws.com/"
 languageCode = "en-us"
 title = "Home of Jeremy Olexa"
+theme = "vienna"
+Paginate = 5
+
+[params]
+	twitter = "jolexa"
+	github = "jolexa"
+	keybase = "jolexa"
+	author = "Jeremy Olexa"
+	contact = "mailto:foo@example.com"
+	bio = "short bio here"
