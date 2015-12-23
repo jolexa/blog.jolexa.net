@@ -16,7 +16,7 @@ You have probably seen the [Host Virtual][1] advertisements on the sidebar of [g
 
 I ran into a weird clocksource issue on my VPS that I haven't seen elsewhere. This issue was that my time would progressively get worse and worse and eventually NTP could not keep up because the clock was so far out of date. This happened on a pretty quick interval, about 1-2 days until I had to manually reset it. I opened up a support case with Host Virtual and the suggestion was to change the kernel's clocksource to jiffies, from tsc, or vice versa. (or use a newer kernel, but I was already at the latest 2.6.32.x kernel at the time) My kernel's clocksource was at the default and I had to research the issue some more because I haven't heard of this before.
 
-In the kernel's Documentation directory, I found some info. (`Documentation/kernel-parameters.txt`). There is quite some details in there, but the summary is that the default clocksource was &#8216;tsc' on x86. I changed my kernel's clocksource by the `clocksource=jiffies` kernel parameter. Rebooted the virtual machine and NTP has been able to keep time since.
+In the kernel's Documentation directory, I found some info. (`Documentation/kernel-parameters.txt`). There is quite some details in there, but the summary is that the default clocksource was 'tsc' on x86. I changed my kernel's clocksource by the `clocksource=jiffies` kernel parameter. Rebooted the virtual machine and NTP has been able to keep time since.
 
 I don't really know the difference here and don't care to research much more. It is fixed and maybe this info will help someone else someday.
 

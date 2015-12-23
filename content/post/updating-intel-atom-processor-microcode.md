@@ -21,7 +21,7 @@ microcode: CPU0 sig=0x106c2, pf=0x4, revision=0x208
 microcode: CPU1 sig=0x106c2, pf=0x4, revision=0x208
 microcode: Microcode Update Driver: v2.00 , Peter Oruba</pre>
 
-I found out that some recent kernel that I loaded at an unknown time, was able to point out that I had &#8216;old' microcode for my processor on my [Aspire1 ZG5][1]. I searched around for a BIOS upgrade, but since this is an older generation netbook, I quickly gave up when my searching yielded nothing useful. There is a userspace tool that you can use to &#8216;upgrade' the microcode provided by Intel on every boot. In Gentoo Linux, that is called `sys-apps/microcode-ctl`. Simply install that and enable the init script on boot.
+I found out that some recent kernel that I loaded at an unknown time, was able to point out that I had 'old' microcode for my processor on my [Aspire1 ZG5][1]. I searched around for a BIOS upgrade, but since this is an older generation netbook, I quickly gave up when my searching yielded nothing useful. There is a userspace tool that you can use to 'upgrade' the microcode provided by Intel on every boot. In Gentoo Linux, that is called `sys-apps/microcode-ctl`. Simply install that and enable the init script on boot.
 
 The output after:
 

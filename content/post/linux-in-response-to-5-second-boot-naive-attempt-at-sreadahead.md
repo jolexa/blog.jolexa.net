@@ -9,7 +9,7 @@ tags:
 - fastboot
 - moblin
 - sreadahead
-title: 'Linux: in response to &#8216;5 second boot' (naive attempt at sReadahead)'
+title: 'Linux: in response to '5 second boot' (naive attempt at sReadahead)'
 aliases:
     - /2008/10/linux-in-response-to-5-second-boot-naive-attempt-at-sreadahead/
 ---

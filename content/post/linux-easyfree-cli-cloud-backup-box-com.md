@@ -12,7 +12,7 @@ aliases:
 
 *Preface: I use to use [rsync.net][1] for my offsite backup needs. They offer a nice solution, especially with the F/OSS contributor discount, but my needs were lesser than their offerings and I didn't quite feel comfortable paying monthly for such needs. That is, get my critical (but small) backups off my host, MySQL, a few important files, etc. Most of my online world is now externally hosted (cloud) or easily rebuilt with key pieces of info.*
 
-My current free 5G offsite backup solution is with [box.com][2]. I don't really use box.com as intended -- &#8216;a collaborative file sharing platform' but instead take advantage of the [WebDAV][3] access that they provide. So, a quick walk-through:
+My current free 5G offsite backup solution is with [box.com][2]. I don't really use box.com as intended -- 'a collaborative file sharing platform' but instead take advantage of the [WebDAV][3] access that they provide. So, a quick walk-through:
 
   1. `emerge davfs2` (I pushed fixes in version >=1.4.7 in Gentoo Linux, I recommend that version)
   2. `echo "https://www.box.com/dav /mnt/box.com davfs rw,user,noauto 0 0" >> /etc/fstab ` 

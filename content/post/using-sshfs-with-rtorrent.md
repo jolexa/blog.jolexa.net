@@ -17,7 +17,7 @@ I had this genius idea about using sshfs with rtorrent. I thought that this use 
 
 If you are not familiar with rtorrent. You just need to know that it is a powerful, lightweight bittorrent client. It has a "watch" feature that watches a directory for new torrents, and obviously it can put downloaded files in a specified location. I tried both of these with sshfs.
 
-**First**, I was having trouble with rtorrent just *&#8216;freezing'* up when I put a torrent file in the sshfs accessible watch dir. I didn't quite know what was wrong here. Research led me to [rtorrent bug 322][2] and that sshfs did not support filesystems without mmap properly. Darn. More research led me to a recent [kernel commit][3] that looked promising. Low and behold, reboot my host with 2.6.31.x kernel and rtorrent works with sshfs watch and destination directory. Yay.
+**First**, I was having trouble with rtorrent just *'freezing'* up when I put a torrent file in the sshfs accessible watch dir. I didn't quite know what was wrong here. Research led me to [rtorrent bug 322][2] and that sshfs did not support filesystems without mmap properly. Darn. More research led me to a recent [kernel commit][3] that looked promising. Low and behold, reboot my host with 2.6.31.x kernel and rtorrent works with sshfs watch and destination directory. Yay.
 
 Well, not so fast...
 

@@ -24,7 +24,7 @@ As Marcus Hanwell [wrote][2] some 7 months ago, it **is** easy to setup. To set 
 
 After that, plug the cam in and verify that the drivers pick up the cam and usb mic with `dmesg`. **That's it**. You can test the webcam by installing a tool called `media-video/luvcview`, I have found that this tool tends to crash while resizing the window or for random reasons -- this is not of concern because it still allows us to verify the cam is working.
 
-As for skype, I just had to change the &#8216;sound in' device to the usb mic on this thing and then it worked fine.
+As for skype, I just had to change the 'sound in' device to the usb mic on this thing and then it worked fine.
 
  [1]: http://blog.jolexa.net/2008/11/13/gentoo-best-webcam/
  [2]: http://blog.cryos.net/archives/183-New-Webcam-and-Linux.html

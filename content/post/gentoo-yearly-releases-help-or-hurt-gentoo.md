@@ -16,13 +16,13 @@ I have been thinking for awhile now and can't convince myself of an answer.
 
 I enjoy Gentoo because I never have to re-install my host. The "rolling release" model is great, a model shared by nearly all(?) source-based distros. However, with our new automated weekly stages -- which I think are a great idea, we lose a few things. In no particular order, we lose:
 
-  * PR -- new &#8216;releases' generate a buzz on the distro sites and blog-o-sphere around the world.
+  * PR -- new 'releases' generate a buzz on the distro sites and blog-o-sphere around the world.
   * Ability to say "we no longer support base installs before 20XX.Y" -- repo changes, bash versions, portage upgrades, etc.
   * The appearance of activity. (This point is debatable)
 
 However, with that being said, I think that yearly releases are also pointless with the presence of weekly stages, because:
 
-  * &#8216;releases' mean nothing to existing hosts -- the only thing you have to do is update your make.profile symlink. There is no other direct benefit unless we tie features to a new profile.
+  * 'releases' mean nothing to existing hosts -- the only thing you have to do is update your make.profile symlink. There is no other direct benefit unless we tie features to a new profile.
   * It is a metric ton of workload to get a stage out there that is guaranteed to work for a year.
   * Missing man-power for the release schedule. As evident by the regular occurrence of releases slipping behind schedule.
   * Obviously it is easy to script or automate. Good job release team on getting this done.

@@ -7,7 +7,7 @@ guid: http://blog.jolexa.net/?p=909
 id: 909
 tags:
 - solaris 11
-title: 'Solaris 11: Where is /usr/ucblib? Quick tips to install &#8216;ucb'
+title: 'Solaris 11: Where is /usr/ucblib? Quick tips to install 'ucb'
   package'
 aliases:
     - /2012/01/solaris-11-where-is-usrucblib-quick-tips-to-install-ucb-package/

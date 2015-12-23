@@ -17,7 +17,7 @@ A few days ago, [Linode.com][1] [announced][2] native IPv6 [roll out][3] in thei
 
   1. Set the TTL low on any DNS addresses that you will be changing. Ideally, do this a fair amount ahead of time.
   2. Send in a support ticket to get your /64 allocated. Sidenote: response time: 4 minutes
-  3. Reboot &#8216;node so the backend system deploys your IPv6 after it was allocated. [Verify][5] IPV6 status on your &#8216;node.
+  3. Reboot 'node so the backend system deploys your IPv6 after it was allocated. [Verify][5] IPV6 status on your 'node.
   4. From a different IPv6 host, run `nmap -6` on the existing address to verify listening services.
   5. Update DNS, define static networking, be happy.
 

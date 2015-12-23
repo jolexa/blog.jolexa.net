@@ -27,6 +27,6 @@ If you use smitty, you are looking for this:
     =&gt; Change / Show Characteristics of Operating System
          ARG/ENV list size in 4K byte blocks                [40]</pre>
 
-40 seems to be a good number. It would be hard to guess the smallest number possible. This is not a problem in AIX 6.1, because the default seems to be &#8216;256'
+40 seems to be a good number. It would be hard to guess the smallest number possible. This is not a problem in AIX 6.1, because the default seems to be '256'
 
  [1]: http://www.gentoo.org/proj/en/gentoo-alt/prefix/

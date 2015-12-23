@@ -13,7 +13,7 @@ aliases:
     - /2009/02/megabus-sucks-chicago-is-cool/
 ---
 
-About a month ago now, my girlfriend and I went to Chicago. We choose [megabus][1] because we heard &#8216;ok' things about it. All I have to say is &#8216;buyer beware' -- avoid at all costs!
+About a month ago now, my girlfriend and I went to Chicago. We choose [megabus][1] because we heard 'ok' things about it. All I have to say is 'buyer beware' -- avoid at all costs!
 
 At first glance, megabus looks great. Cheap-ish rates, direct service, better than greyhound, wifi on bus, etc. However, the real story comes out once you start your journey. Enroute to Chicago, the ambient temp on the bus was ~50 degrees or so. The wi-fi wasn't equipped or wasn't turned on. It was packed (this was expected though). On the way home, well..the freaking bus was 2 hours late to get to our pick-up spot! WTF. The driver didn't know how to drive a bus, it seemed. He also got lost in Milwaukee.. WTF #2. Wi-fi was on, but we couldn't associate with the access point...the driver "didn't know how to work such fancy technology thingies" -- FAIL! -- get trained in on your equipment, sir.
 

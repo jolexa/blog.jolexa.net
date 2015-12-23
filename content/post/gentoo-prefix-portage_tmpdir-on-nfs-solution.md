@@ -19,6 +19,6 @@ I like it!!
 
 My solution is to symlink $EPREFIX/var/tmp to the other NFS mount on the localhost. In my case, /net/$(hostname)/public/tmp.
 
-**UPDATE**: The above &#8216;solution' isn't that great. It resulted in a total time increase of about 12%. However, making the symlink point to the local hard drive resulted in a total time decrease of about 31%. (on emerge -e system) Therefore, my latest recommendation is to create the symlink as described originally and override it with PORTAGE_TMPDIR set to the local path.
+**UPDATE**: The above 'solution' isn't that great. It resulted in a total time increase of about 12%. However, making the symlink point to the local hard drive resulted in a total time decrease of about 31%. (on emerge -e system) Therefore, my latest recommendation is to create the symlink as described originally and override it with PORTAGE_TMPDIR set to the local path.
 
  [1]: http://www.gentoo.org/proj/en/gentoo-alt/prefix/index.xml

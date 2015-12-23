@@ -8,7 +8,7 @@ id: 199
 tags:
 - bikeshed
 - software development
-title: 'Today's rant: What is &#8216;bikeshedding' ?'
+title: 'Today's rant: What is 'bikeshedding' ?'
 aliases:
     - /2008/12/todays-rant-what-is-bikeshedding/
 ---
