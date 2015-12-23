@@ -19,7 +19,7 @@ If you are not familiar with rtorrent. You just need to know that it is a powerf
 
 **First**, I was having trouble with rtorrent just *&#8216;freezing'* up when I put a torrent file in the sshfs accessible watch dir. I didn't quite know what was wrong here. Research led me to [rtorrent bug 322][2] and that sshfs did not support filesystems without mmap properly. Darn. More research led me to a recent [kernel commit][3] that looked promising. Low and behold, reboot my host with 2.6.31.x kernel and rtorrent works with sshfs watch and destination directory. Yay.
 
-Well, not so fast&#8230;
+Well, not so fast...
 
 The performance is quite poor with the destination directory on sshfs. This is to be expected because now your download speed for torrents is limited to the download speed of your final destination. But, rtorrent was only giving me a sustained speed of 1/4 of that demonstrated with a simple file copy to the destination. I speculate that this is from the rtorrent overhead or maybe fragmenting? Not sure exactly and I don't care. My solution to this was to use the rtorrent &#8220;move on finished&#8221; feature that downloads the file to local disk and then moves it to sshfs destination after it is finished. Amazingly, this works quite well.
 

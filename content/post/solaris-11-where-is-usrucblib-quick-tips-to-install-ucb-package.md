@@ -13,7 +13,7 @@ aliases:
     - /2012/01/solaris-11-where-is-usrucblib-quick-tips-to-install-ucb-package/
 ---
 
-Well&#8230; I finally figured out that the ucb package isn't installed on Solaris 11 by default ([resource][1]). Unfortunately, the *Oracle* docs are confusing to follow. Here is a cheatsheet for installing the ucb package on your shiny Solaris 11 install.
+Well... I finally figured out that the ucb package isn't installed on Solaris 11 by default ([resource][1]). Unfortunately, the *Oracle* docs are confusing to follow. Here is a cheatsheet for installing the ucb package on your shiny Solaris 11 install.
 
   1. Figure out the IPS installer, read man pages, get frustrated at lack of detail, run to Google.
   2. Find the package you want on <http://pkg.oracle.com/>, in this case *compatibility/ucb*
@@ -38,7 +38,7 @@ Well&#8230; I finally figured out that the ucb package isn't installed on Solari
 
   1. Behold, that you now have the compatibility libs for software that may need to use them
 
-Whew&#8230;now, you might wonder what is so hard about that. Well, traversing Oracle docs is the hard part.
+Whew...now, you might wonder what is so hard about that. Well, traversing Oracle docs is the hard part.
 
 Here are the docs that I had open in my browser, they may or *may not* help and I fully expect the links to break in the future because Oracle is good at that.
 

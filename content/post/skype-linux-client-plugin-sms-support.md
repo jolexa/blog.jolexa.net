@@ -16,7 +16,7 @@ I was pretty upset after reading that the last status update on the Skype Linux 
 
 Simply emerge [net-im/skysentials][2] (which pulls in [dev-python/skype4py][3]) and run `skysentials.py`
 
-It is not the best <span style="text-decoration: line-through;">solution</span> hack, but I am afraid it is all that we will get for quite some time based on frequency of Linux client status updates&#8230;
+It is not the best <span style="text-decoration: line-through;">solution</span> hack, but I am afraid it is all that we will get for quite some time based on frequency of Linux client status updates...
 
  [1]: http://share.skype.com/sites/linux/
  [2]: http://packages.gentoo.org/package/net-im/skysentials

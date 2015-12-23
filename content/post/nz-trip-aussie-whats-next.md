@@ -25,7 +25,7 @@ New Zealand was totally rad. It was exactly what people say regarding seeing all
 
 Then, I came back to Aussie on my travel high and hung out in Maitland for a few weeks, &#8220;working&#8221; and having fun. Then I was off to a skydiving event, the West Coast Sundowner in York, Western Australia (a 5 hour flight from Sydney). Skydiving with some awesome people and meeting some new and old friends. That brings me here. Now.
 
-Next&#8230;
+Next...
 
 I'll be on my way to visit my cuz in Japan in the later half of November and back to Minnesota in December. Anyone know of some short term jobs, preferably computer related? <img src="http://blog.jolexa.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 

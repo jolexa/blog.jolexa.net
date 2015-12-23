@@ -12,7 +12,7 @@ aliases:
     - /2009/12/gentoo-devtmpfs-and-boot-times-revisited/
 ---
 
-There was alot of of talk/flames on the LKML about devtmpfs. Looks like a big push for this was for embedded devices, android, etc. Since I read that it may give a boot time speed up, I was slightly intrigued. <http://lkml.org/lkml/2009/4/30/182>, yes&#8230;it is an old topic but it finally was released in stable .32 kernel.
+There was alot of of talk/flames on the LKML about devtmpfs. Looks like a big push for this was for embedded devices, android, etc. Since I read that it may give a boot time speed up, I was slightly intrigued. <http://lkml.org/lkml/2009/4/30/182>, yes...it is an old topic but it finally was released in stable .32 kernel.
 
 So, bootcharts:  
 [bootchart-2.6.31.6.png][1] 39 seconds  

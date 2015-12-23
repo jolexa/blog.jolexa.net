@@ -24,7 +24,7 @@ Dresden, Germany for a few days. I carpooled here with 3 other Germans as they w
 
 Then we can fast forward to December 1, when I got on the bus for Vienna. I lost my camera on November 30th, so there is only mental pictures of Vienna. I stayed there for 3 nights. It is an expensive city relative to Czech Republic and farther east, but I liked it. I stayed at an independent hostel, [Hostel Ruthersteiner][5] (recommended as well) I met with my friend Marijn and we walked around the city with his family and colleague. I tried to goto a Viennese Opera but there was only standing room and I didn't feel like standing still for 2.5 hours so of course I went to the Viennese Christmas Markets instead and enjoyed many a glühwein (hot wine). I also toured the UN headquarters in Vienna and had lunch with my friend there. I could imagine myself going back there later in life to soak in the cultural activities that are more suited for older people or families.
 
-*Now*, I am in Budapest. More on that later&#8230;
+*Now*, I am in Budapest. More on that later...
 
  [1]: http://www.krumlovhostel.com/
  [2]: http://www.flickr.com/photos/jolexa/8261230248/ "Czech Republic (Prague, Olomouc, Cesky Krumlov) Oct/Nov 2012-243 by jolexa112, on Flickr"

@@ -8,7 +8,7 @@ id: 153
 tags:
 - kvm
 - virtualization
-title: On virtualization&#8230;
+title: On virtualization...
 aliases:
     - /2008/11/on-virtualization/
 ---

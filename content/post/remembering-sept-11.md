@@ -10,7 +10,7 @@ aliases:
     - /2008/09/remembering-sept-11/
 ---
 
-I know, cliche as this post may be&#8230;I remember all too well where I was on Sept 11th. US History class in 9th grade. Sitting in the desks watching CNN.
+I know, cliche as this post may be...I remember all too well where I was on Sept 11th. US History class in 9th grade. Sitting in the desks watching CNN.
 
 I think this is real touching and a very good job by Team Fastrax, a skydiving team of really experienced canopy pilots. Original post can be seen [here][1] on the PD blog. They are jumping at ground zero with 7 US flags of various sizes trailing thier canopies. The plan was to drop all the flags at the same time at approximately 10:30am ET, the time when Twin Tower two fell.
 

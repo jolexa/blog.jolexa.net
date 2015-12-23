@@ -17,7 +17,7 @@ This adventure of mine is really turning into an adventure..
 
 I'm staying in Prague for another month. I'm working at a hostel as a bartender and getting my own private room and one/two meals per day. I have two consecutive days off per week and I plan on going on overnight trips to other cities in Czech. I've basically invalidated the rest of my planning for the next month or two but I'll figure that out later..
 
-Welcome to my office&#8230;  
+Welcome to my office...  
 [<img src="http://farm9.staticflickr.com/8464/8134591047_03bddf06dc_n.jpg" width="320" height="200" alt="Camera Roll-32" />][1]
 
  [1]: http://www.flickr.com/photos/jolexa/8134591047/ "Camera Roll-32 by jolexa112, on Flickr"

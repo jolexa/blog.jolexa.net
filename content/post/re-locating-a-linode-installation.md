@@ -25,7 +25,7 @@ At least Linode's customer server was helpful and allowed me to work around the 
   5. Meanwhile, update your DNS for your new IP.
   6. Since you can queue up a boot job, I just let it go and checked in on it a couple hours later. Magic, it was online. <img src="http://blog.jolexa.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
-So, to finish the story off. Linode++, Comcast&#8211;. I wish I didn't need to do something like this, I wish my ISP was&#8230;I don't know&#8230;smart?
+So, to finish the story off. Linode++, Comcast&#8211;. I wish I didn't need to do something like this, I wish my ISP was...I don't know...smart?
 
  [1]: http://blog.jolexa.net/2009/05/13/in-depth-linode-vps-review/
  [2]: http://linode.com

@@ -9,7 +9,7 @@ tags:
 - boot time
 - openrc
 - performance
-title: 'Gentoo: Improve boot time&#8230;'
+title: 'Gentoo: Improve boot time...'
 aliases:
     - /2008/09/gentoo-improve-boot-time/
 ---
@@ -18,7 +18,7 @@ Switch to baselayout-2 and openrc..the speed up **is** noticeable. Especially if
 
 Anyway, this *should* be hitting stable soonish and when it does be sure to read the migration [guide][2] because some things have indeed changed.
 
-For me, I count to 10 slowly and my laptop is at the xdm prompt&#8230;very cool and good job [Roy][3]!
+For me, I count to 10 slowly and my laptop is at the xdm prompt...very cool and good job [Roy][3]!
 
  [1]: http://www.void.gr/kargig/blog/2008/04/09/gentoo-baselayout-2-and-openrc-impressions/
  [2]: http://www.gentoo.org/doc/en/openrc-migration.xml

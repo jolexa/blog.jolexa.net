@@ -15,7 +15,7 @@ aliases:
     - /2012/10/dordrecht-kinderdijk-delft/
 ---
 
-I went to Dordrecht for just a short time, a very small town. We made a mistake on the waterbus that led us to walking around the town for a few hours until we could get to the intended goal of Kinderdijk. Kinderdijk is the home of the famous windmills that Holland is known for. The windmills are preserved and still working but not used since the invention of the electric pump. We had to go see the windmills and get *the* picture&#8230;
+I went to Dordrecht for just a short time, a very small town. We made a mistake on the waterbus that led us to walking around the town for a few hours until we could get to the intended goal of Kinderdijk. Kinderdijk is the home of the famous windmills that Holland is known for. The windmills are preserved and still working but not used since the invention of the electric pump. We had to go see the windmills and get *the* picture...
 
 [<img src="http://farm9.staticflickr.com/8472/8095077739_08c4998d33_n.jpg" width="320" height="240" alt="Rotterdam 10/2012-189" />][1]
 

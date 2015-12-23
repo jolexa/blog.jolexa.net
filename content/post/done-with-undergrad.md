@@ -12,6 +12,6 @@ aliases:
 
 As seen [here][1], I received my grades a couple weeks ago and I am done with undergrad now (I passed). Bachelor's degree in Computer Science from the University of Minnesota. Sounds quite cool, eh? 😉
 
-Now&#8230;student loans.. >=|
+Now...student loans.. >=|
 
  [1]: http://blog.jolexa.net/2009/05/12/undergrad-is-done-w00t/

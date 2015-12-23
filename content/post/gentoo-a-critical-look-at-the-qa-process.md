@@ -10,7 +10,7 @@ aliases:
     - /2010/12/gentoo-a-critical-look-at-the-qa-process/
 ---
 
-*This post will probably annoy some people, or bring bad &#8220;spotlight&#8221; to Gentoo Linux. I call it a case study, but it is just my opinions&#8230;*
+*This post will probably annoy some people, or bring bad &#8220;spotlight&#8221; to Gentoo Linux. I call it a case study, but it is just my opinions...*
 
 The QA team has said that there is some sort of &#8220;policy&#8221; on masking packages that break reverse dependencies. I'll subscribe that that policy for the sake of not breaking users machines on purpose, however, let's take a look at the current case study: **poppler-0.16**
 
@@ -21,7 +21,7 @@ package.mask (in context, name removed because it isn't needed):
 +# tracer bug 349918  
 +=app-text/poppler-0.16.0
 
-&#8230;and there was some discussion on IRC. The QA team (at least a few members) says that the *&#8220;tree is broken&#8221;* with poppler-0.16. At time of this writing, 7 packages were reported on the tracker bug and 2 were fixed already. So, it is my opinion that progress for Gentoo is hampered because of this masking. I'll explain why but first the different theories to package testing that I have observed.
+...and there was some discussion on IRC. The QA team (at least a few members) says that the *&#8220;tree is broken&#8221;* with poppler-0.16. At time of this writing, 7 packages were reported on the tracker bug and 2 were fixed already. So, it is my opinion that progress for Gentoo is hampered because of this masking. I'll explain why but first the different theories to package testing that I have observed.
 
 <u>Theory 1:</u>  
 Run full arch for stability. The problem with this theory is that some group of people/machines need to test ~arch packages first and report issues, otherwise they will hit the stable users and the concept of the arch/~arch tree will break down. The advantage being less compilation in general, and the goal being stability or less breakage. I consider this theory for people that are new to Gentoo.
@@ -32,9 +32,9 @@ Run full ~arch to find interaction issues. This is a fine theory, but not for me
 <u>Theory 3:</u>  
 Run mostly arch and a few ~arch packages. This is what most of my machines run. That is, arch (stable) system and ~arch for packages that I maintain (or help maintain). The advantage here is what I consider *real* integration testing. The theory is that everything in ~arch will become arch, at one point. These ~arch packages are coming in one-by-one, so it makes no sense to *only* test a full ~arch tree if the package will be entering the arch tree. This is what the arch team does when they mark packages stable. The downside being, more management, maybe some dependency issues if they aren't stated properly, etc. I'd consider this theory for people that prefer stability but enjoy the latest packages for some apps.
 
-*I think it is valuable to have a user base that is doing all of those theories. &#8230;back to poppler.*
+*I think it is valuable to have a user base that is doing all of those theories. ...back to poppler.*
 
-As we have seen in the past, once a package is &#8220;masked for testing&#8221; &#8211; it may take years to lift that mask because no one actually tests it. And why should you? It is masked and therefore not even in the *testing* category (~arch)!! Bingo, the crux of this case study. Technically speaking, there is nothing wrong with poppler-0.16.0, it is perfectly fine to be in ~arch by its own criteria. On the other hand, it's ABI change breaks packages that haven't been fixed to work with the new ABI yet. By masking a package that changes ABI with a soname change, it could (and should, in my opinion) be considered slowing progress for Gentoo. It should **not** be considered that the &#8220;[whole] tree is broken&#8221; &#8211; these 7 packages may just be the tip of the iceberg in the breakage category, but we won't know if it is masked and users are not contributing. Let's remind ourselves that the arch tree is still functioning properly at this point and &#8220;stable&#8221; users won't see any issues&#8230;now. For them, thankfully, the ~arch users (including devs) are contributing to Gentoo via bug reports & patches. It should also be noted that nothing is being broke &#8220;on purpose&#8221; here, bugs are being filed and bugs are being fixed &#8211; this is the goal of a software project, right?
+As we have seen in the past, once a package is &#8220;masked for testing&#8221; &#8211; it may take years to lift that mask because no one actually tests it. And why should you? It is masked and therefore not even in the *testing* category (~arch)!! Bingo, the crux of this case study. Technically speaking, there is nothing wrong with poppler-0.16.0, it is perfectly fine to be in ~arch by its own criteria. On the other hand, it's ABI change breaks packages that haven't been fixed to work with the new ABI yet. By masking a package that changes ABI with a soname change, it could (and should, in my opinion) be considered slowing progress for Gentoo. It should **not** be considered that the &#8220;[whole] tree is broken&#8221; &#8211; these 7 packages may just be the tip of the iceberg in the breakage category, but we won't know if it is masked and users are not contributing. Let's remind ourselves that the arch tree is still functioning properly at this point and &#8220;stable&#8221; users won't see any issues...now. For them, thankfully, the ~arch users (including devs) are contributing to Gentoo via bug reports & patches. It should also be noted that nothing is being broke &#8220;on purpose&#8221; here, bugs are being filed and bugs are being fixed &#8211; this is the goal of a software project, right?
 
 So, the way I see it, is a chain reaction.
 

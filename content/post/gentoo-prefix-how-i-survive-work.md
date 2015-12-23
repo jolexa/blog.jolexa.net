@@ -5,7 +5,7 @@ categories:
 date: 2009-11-23T00:00:00Z
 guid: http://blog.jolexa.net/?p=528
 id: 528
-title: 'Gentoo Prefix: How I survive work&#8230;'
+title: 'Gentoo Prefix: How I survive work...'
 aliases:
     - /2009/11/gentoo-prefix-how-i-survive-work/
 ---

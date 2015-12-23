@@ -35,7 +35,7 @@ A: Well, I don't know. I'm not so sure if I want a computer-related career when 
 **Q: What about all your *stuff*?**  
 A: Haha, this question is great. People cannot believe that I've (already) sold it all, or otherwise donated/thrown away. I have NO *stuff* to store. It is actually, *extremely* liberating.
 
-I'm sure I could go on for a while with more FAQ's&#8230; All of these questions have been asked by more than one person so please don't think that I am singling anyone out. **Any other questions?**
+I'm sure I could go on for a while with more FAQ's... All of these questions have been asked by more than one person so please don't think that I am singling anyone out. **Any other questions?**
 
  [1]: http://blog.jolexa.net/2012/08/announcing-my-long-term-travel-plans/
  [2]: http://www.couchsurfing.org/people/jolexa

@@ -5,12 +5,12 @@ categories:
 date: 2014-09-07T00:00:00Z
 guid: http://blog.jolexa.net/?p=5334
 id: 5334
-title: Bypassing Geolocation &#8230;
+title: Bypassing Geolocation ...
 aliases:
     - /2014/09/bypassing-geolocation/
 ---
 
-By now we all know that it is pretty easy to bypass geolocation blockage with a web proxy or vpn service. After all, there is over 2 million google results on &#8220;bbc vpn&#8221; &#8230; and I wanted to do just that to view a BBC show on privacy and the dark web.
+By now we all know that it is pretty easy to bypass geolocation blockage with a web proxy or vpn service. After all, there is over 2 million google results on &#8220;bbc vpn&#8221; ... and I wanted to do just that to view a BBC show on privacy and the dark web.
 
 I wanted to set this up as cheaply as possible but not use a service that I had to pay for a month since I only needed one hour. This requirement directed me towards a do-it-yourself solution with an hourly server in the UK. I also wanted reproducibility so that I could spin up a similar service again in the future.
 

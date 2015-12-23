@@ -27,7 +27,7 @@ I tried out sReadahead this morning. That experience was very disappointing init
   5. reboot
 
 **End result**: No improvement in boot time with either readahead-list or sReadahead.  
-*Disclaimer*: This was a naive attempt and I'm sure I need additional kernel patches or something. But that is non obvious to me at this point. Anyway, if others want to expand on this&#8230;feel free to contact me.
+*Disclaimer*: This was a naive attempt and I'm sure I need additional kernel patches or something. But that is non obvious to me at this point. Anyway, if others want to expand on this...feel free to contact me.
 
 Additional reading:  
 [Improving boot time on a general Linux distribution, not an easy task][5] (Mandriva dev)  

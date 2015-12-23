@@ -7,7 +7,7 @@ guid: http://jolexa.wordpress.com/?p=93
 id: 93
 tags:
 - firefox
-title: Firefox 3 awesome bar&#8230;
+title: Firefox 3 awesome bar...
 aliases:
     - /2008/09/firefox-3-awesome-bar/
 ---
