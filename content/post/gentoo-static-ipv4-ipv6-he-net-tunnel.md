@@ -8,7 +8,7 @@ id: 669
 tags:
 - linode
 - vps
-title: 'Gentoo: static IPv4 &#038; IPv6 (HE.net tunnel)'
+title: 'Gentoo: static IPv4 & IPv6 (HE.net tunnel)'
 aliases:
     - /2010/04/gentoo-static-ipv4-ipv6-he-net-tunnel/
 ---
