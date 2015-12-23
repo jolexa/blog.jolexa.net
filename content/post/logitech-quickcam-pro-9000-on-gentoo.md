@@ -13,18 +13,18 @@ aliases:
     - /2009/01/logitech-quickcam-pro-9000-on-gentoo/
 ---
 
-Since there isn&#8217;t anything extremely relevant in google when searching for &#8220;gentoo quickcam pro 9000&#8243; &#8211; I hope this helps someone.
+Since there isn't anything extremely relevant in google when searching for &#8220;gentoo quickcam pro 9000&#8243; &#8211; I hope this helps someone.
 
 I [solicited][1] advice from the community for a webcam a couple months back and my girlfriend used the comments to buy me this model for Christmas. It works great, so thanks for recommending it people. =)
 
-As Marcus Hanwell [wrote][2] some 7 months ago, it **is** easy to setup. To set this cam up, make sure you have a recent kernel (>=2.6.26 &#8211; don&#8217;t quote me on exact version. I used 2.6.27.10 at the time of this writing) and then make sure you have at least these two things enabled:
+As Marcus Hanwell [wrote][2] some 7 months ago, it **is** easy to setup. To set this cam up, make sure you have a recent kernel (>=2.6.26 &#8211; don't quote me on exact version. I used 2.6.27.10 at the time of this writing) and then make sure you have at least these two things enabled:
 
   1. `CONFIG_USB_VIDEO_CLASS`
   2. `CONFIG_SND_USB_AUDIO`
 
-After that, plug the cam in and verify that the drivers pick up the cam and usb mic with `dmesg`. **That&#8217;s it**. You can test the webcam by installing a tool called `media-video/luvcview`, I have found that this tool tends to crash while resizing the window or for random reasons &#8211; this is not of concern because it still allows us to verify the cam is working.
+After that, plug the cam in and verify that the drivers pick up the cam and usb mic with `dmesg`. **That's it**. You can test the webcam by installing a tool called `media-video/luvcview`, I have found that this tool tends to crash while resizing the window or for random reasons &#8211; this is not of concern because it still allows us to verify the cam is working.
 
-As for skype, I just had to change the &#8216;sound in&#8217; device to the usb mic on this thing and then it worked fine.
+As for skype, I just had to change the &#8216;sound in' device to the usb mic on this thing and then it worked fine.
 
  [1]: http://blog.jolexa.net/2008/11/13/gentoo-best-webcam/
  [2]: http://blog.cryos.net/archives/183-New-Webcam-and-Linux.html

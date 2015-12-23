@@ -17,7 +17,7 @@ The problem:
 <pre>$ dmesg |grep mtrr
 mtrr: no more MTRRs available</pre>
 
-I found on my &#8216;new-to-me&#8217; AA1 that MTRR handling in the BIOS was messed up. Thanks to this [bug report][1] I figured out that I should compile the kernel with MTRR *sanitizer* enabled. That is:
+I found on my &#8216;new-to-me' AA1 that MTRR handling in the BIOS was messed up. Thanks to this [bug report][1] I figured out that I should compile the kernel with MTRR *sanitizer* enabled. That is:
 
 <pre>$ zgrep -i MTRR /proc/config.gz 
 CONFIG_MTRR=y

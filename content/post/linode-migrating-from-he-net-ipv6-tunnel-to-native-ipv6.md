@@ -13,7 +13,7 @@ aliases:
     - /2011/05/linode-migrating-from-he-net-ipv6-tunnel-to-native-ipv6/
 ---
 
-A few days ago, [Linode.com][1] [announced][2] native IPv6 [roll out][3] in their datacenters. Now, while I haven&#8217;t wrote about Linode in the past 6 months, I am still a happy customer. I am documenting the steps I took to migrate *away* from my HE.net [tunnel][4].
+A few days ago, [Linode.com][1] [announced][2] native IPv6 [roll out][3] in their datacenters. Now, while I haven't wrote about Linode in the past 6 months, I am still a happy customer. I am documenting the steps I took to migrate *away* from my HE.net [tunnel][4].
 
   1. Set the TTL low on any DNS addresses that you will be changing. Ideally, do this a fair amount ahead of time.
   2. Send in a support ticket to get your /64 allocated. Sidenote: response time: 4 minutes

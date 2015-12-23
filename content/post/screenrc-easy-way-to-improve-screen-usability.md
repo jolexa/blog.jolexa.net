@@ -10,7 +10,7 @@ aliases:
     - /2009/11/screenrc-easy-way-to-improve-screen-usability/
 ---
 
-I&#8217;ve used a custom ~/.screenrc file for at least a year now. I find that this snippet helps improve the usability for me.
+I've used a custom ~/.screenrc file for at least a year now. I find that this snippet helps improve the usability for me.
 
 <pre>#Custom Stuff
 caption always "%{= wb}$USER @ %H >> %-Lw%{= r}%50>%n* %t%{-}%+Lw%&lt; %-=&lt;&lt; (%c.%s)"

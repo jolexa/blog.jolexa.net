@@ -10,10 +10,10 @@ aliases:
     - /2011/04/gentoo-infra-team-update/
 ---
 
-It has been awhile since I&#8217;ve posted about what I&#8217;ve been doing with Gentoo Linux. So, here is a general update for the team that I have been spending most of my time with.
+It has been awhile since I've posted about what I've been doing with Gentoo Linux. So, here is a general update for the team that I have been spending most of my time with.
 
   * You may have seen the [Bugzilla][1] upgrade that Christian was working on. Gentoo moved from the bottom of the [list][2] provided from one of the upstream devs to the top of the list. (As of April 2011)
-  * I finally put an idea of mine into reality of graphing the number of &#8220;emerge &#8211;sync&#8217;s&#8221; against the rsync.gentoo.org rotation. [Full graph][3] and [last 4 weeks][4]
+  * I finally put an idea of mine into reality of graphing the number of &#8220;emerge &#8211;sync's&#8221; against the rsync.gentoo.org rotation. [Full graph][3] and [last 4 weeks][4]
   * A new reporting website was born: <http://qa-reports.gentoo.org/> &#8211; The vision was: &#8220;Many Gentoo devs have useful scripts and many people complain that there is not a central place to see all the output.&#8221; This site is a solution, and open for all. repo: [qa-scripts.git][5]
   * A new &#8220;Get Gentoo at a glance&#8221; website was born: <http://get.gentoo.org/> that Matthew is still working on, so maybe expect some layout changes &#8211; The motivation for this was inspired from [bug 350271][6], repo: [get-gentoo.git][7] 
       * Some behind the scenes work involving our mastermirror service. The current hardware running this important service is one of the oldest hosts we have.</ul> 

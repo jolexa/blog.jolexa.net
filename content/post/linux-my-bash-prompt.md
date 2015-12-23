@@ -13,7 +13,7 @@ aliases:
 
 There seems to be a semi-meme [going][1] [around][2] on some of the planets I read.
 
-My concern is long directory paths and I wanted a dymanic solution for it. Surely, I cannot be the first person to think of it, but I haven&#8217;t seen it in use anywhere else.
+My concern is long directory paths and I wanted a dymanic solution for it. Surely, I cannot be the first person to think of it, but I haven't seen it in use anywhere else.
 
 <pre><div style="background-color: #000000; font-style: normal; font-family: Georgia;">
   <span style="color: #333399;"><strong><span style="color: #3366ff;">jolexa</span> <span style="color: #00ff00;">@</span> <span style="color: #3366ff;">helios</span> <span style="color: #999999;">::</span> <span style="color: #ffffff;">~</span> <span style="color: #999999;">%%</span></strong></span>

@@ -12,7 +12,7 @@ aliases:
     - /2012/01/skydive-arizona-2011-holiday-boogie/
 ---
 
-(I realize that I go on 7-8 skydiving &#8220;trips&#8221; per year and I often don&#8217;t write about them. It may be fun to read about the special events later, so I&#8217;m going to try my best to publicly write about my adventures. For an aggregation of random skydiving blogs, check out [planetskydive.net][1])
+(I realize that I go on 7-8 skydiving &#8220;trips&#8221; per year and I often don't write about them. It may be fun to read about the special events later, so I'm going to try my best to publicly write about my adventures. For an aggregation of random skydiving blogs, check out [planetskydive.net][1])
 
 A few weeks ago, I returned from a 12 day skydiving trip to [Skydive Arizona][2]. The highlights of this trip were 2011 Holiday Boogie, freefly load organizers, an hour of [tunnel][1] time, getting food poisoning, and a CRW Bigway camp. All while meeting new and old friends. This was my first far-away skydiving trip that I went on by myself, it takes abit to figure out who to jump with but just introducing yourself to the load organizers helps with that. Soon, they are seeking you out to jump because it is their job to encourage you to spend money <img src="http://blog.jolexa.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 

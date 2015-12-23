@@ -10,7 +10,7 @@ aliases:
     - /2009/06/done-with-undergrad/
 ---
 
-As seen [here][1], I received my grades a couple weeks ago and I am done with undergrad now (I passed). Bachelor&#8217;s degree in Computer Science from the University of Minnesota. Sounds quite cool, eh? 😉
+As seen [here][1], I received my grades a couple weeks ago and I am done with undergrad now (I passed). Bachelor's degree in Computer Science from the University of Minnesota. Sounds quite cool, eh? 😉
 
 Now&#8230;student loans.. >=|
 

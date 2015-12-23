@@ -10,7 +10,7 @@ aliases:
     - /2012/11/gentoo-graphing-the-developer-web-of-trust/
 ---
 
-*&#8220;Nothing gets people&#8217;s interest peaked like colorful graphics. Therefore, graphing the web of trust in your local area as you build it can help motivate people to participate as well as giving everyone a clear sense of what&#8217;s being accomplished as things progress.&#8221;*
+*&#8220;Nothing gets people's interest peaked like colorful graphics. Therefore, graphing the web of trust in your local area as you build it can help motivate people to participate as well as giving everyone a clear sense of what's being accomplished as things progress.&#8221;*
 
 I graphed the [Gentoo Developer Web of Trust][1], as motivated by the (outdated) [Debian Web of Trust][2].
 

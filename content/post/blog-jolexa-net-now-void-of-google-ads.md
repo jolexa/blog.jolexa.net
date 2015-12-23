@@ -17,7 +17,7 @@ I never really liked Google ads. I just had them here in the hope that it would 
   * 15 months of Google Adsense
   * 41,464 Page Impressions
   * 56 clicks
-  * $23 dollars of &#8216;revenue&#8217;
+  * $23 dollars of &#8216;revenue'
   * ﻿56,553 views according to site stats.
 
-So, that is enough. Since I don&#8217;t like ads on my site, they are now gone. <img src="http://blog.jolexa.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+So, that is enough. Since I don't like ads on my site, they are now gone. <img src="http://blog.jolexa.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

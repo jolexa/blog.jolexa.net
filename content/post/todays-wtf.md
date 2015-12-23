@@ -8,7 +8,7 @@ id: 59
 tags:
 - nfs
 - RHEL
-title: Today&#8217;s WTF.
+title: Today's WTF.
 aliases:
     - /2008/08/todays-wtf/
 ---

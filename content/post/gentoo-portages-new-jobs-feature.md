@@ -8,7 +8,7 @@ guid: http://jolexa.wordpress.com/?p=17
 id: 17
 tags:
 - portage
-title: 'Gentoo: Portage&#8217;s new &#8211;jobs feature'
+title: 'Gentoo: Portage's new &#8211;jobs feature'
 aliases:
     - /2008/07/gentoo-portages-new-jobs-feature/
 ---

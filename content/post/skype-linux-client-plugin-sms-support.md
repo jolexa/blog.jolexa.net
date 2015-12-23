@@ -12,7 +12,7 @@ aliases:
     - /2009/03/skype-linux-client-plugin-sms-support/
 ---
 
-I was pretty upset after reading that the last status update on the Skype Linux client was [back in January][1]. Since I was using Skype on Windows all week last week, I didn&#8217;t know how bad it was on Linux until I got back home. What a bummer that all Linux gets is v2.0, while Windows gets v4.0. In particular, I needed the SMS feature. So, now Gentoo has this feature via plugin now too.
+I was pretty upset after reading that the last status update on the Skype Linux client was [back in January][1]. Since I was using Skype on Windows all week last week, I didn't know how bad it was on Linux until I got back home. What a bummer that all Linux gets is v2.0, while Windows gets v4.0. In particular, I needed the SMS feature. So, now Gentoo has this feature via plugin now too.
 
 Simply emerge [net-im/skysentials][2] (which pulls in [dev-python/skype4py][3]) and run `skysentials.py`
 

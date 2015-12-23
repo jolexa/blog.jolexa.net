@@ -12,7 +12,7 @@ aliases:
     - /2009/12/about-php_fcgi_max_requests-and-lighttpd/
 ---
 
-If you are running PHP on a limited-resource box, like a [VPS][1] then you may have seen your PHP pages randomly hang. I was able to trace this issue down because the PHP pages were hung up and the normal html pages were still being served. The problem was *&#8216;solved&#8217;* when I restarted the web server. Some research later, and talking to Thilo (bangert), I found out about `PHP_FCGI_MAX_REQUESTS`. This is an environment variable that PHP respects, it basically tells how many requests to serve before respawning fcgi. In my case, 500 seemed like a good number after testing. Your mileage may vary, but it is worth a try if you have those symptoms.
+If you are running PHP on a limited-resource box, like a [VPS][1] then you may have seen your PHP pages randomly hang. I was able to trace this issue down because the PHP pages were hung up and the normal html pages were still being served. The problem was *&#8216;solved'* when I restarted the web server. Some research later, and talking to Thilo (bangert), I found out about `PHP_FCGI_MAX_REQUESTS`. This is an environment variable that PHP respects, it basically tells how many requests to serve before respawning fcgi. In my case, 500 seemed like a good number after testing. Your mileage may vary, but it is worth a try if you have those symptoms.
 
     
     %% cat /etc/lighttpd/mod_fastcgi.conf 

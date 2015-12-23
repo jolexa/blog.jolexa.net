@@ -13,7 +13,7 @@ aliases:
     - /2009/02/new-online-home/
 ---
 
-If you have rss feeds to my old WP hosted [blog][1], you may want to check them now and update if needed. That blog is closed for comments and I&#8217;ll rid google of it after it fully picks up this site. (Over 20,000 hits over there, thanks!)
+If you have rss feeds to my old WP hosted [blog][1], you may want to check them now and update if needed. That blog is closed for comments and I'll rid google of it after it fully picks up this site. (Over 20,000 hits over there, thanks!)
 
 My new [home][2] is located on a Gentoo VPS from a provider called [Linode][3]. I have nothing but good things to say about Linode right now. Service, response time, user community, admins in irc, price, etc. I have been working on setting up a webserver (this blog), email server &#8211; which caused me much pain overall, and a few other random things. For the most part, my new host is fully setup now and relatively hands free for major services.
 

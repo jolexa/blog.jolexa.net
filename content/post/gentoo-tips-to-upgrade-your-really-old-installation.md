@@ -109,7 +109,7 @@ emerge --depclean -a<br />
 
 Which I made available [here][3].
 
-So, please people. Update on a regular basis so you don&#8217;t have to go through this stuff.
+So, please people. Update on a regular basis so you don't have to go through this stuff.
 
  [1]: http://bugs.gentoo.org/263521
  [2]: http://forums.gentoo.org/viewtopic-t-748073-start-0-postdays-0-postorder-asc-highlight-.html?sid=221191716d0fd211eec30535cd64cad3

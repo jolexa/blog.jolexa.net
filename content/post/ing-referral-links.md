@@ -12,7 +12,7 @@ aliases:
     - /2009/04/ing-referral-links/
 ---
 
-After some searching for a new online savings account, I settled on [ING Direct][1]. A few reasons include a competitive interest rate, good user interface, ability to create sub-accounts (I use these for different savings goals), & most importantly a $25 bonus from using some one else&#8217;s referral link. It took me until the 4th page on google to find a working link.
+After some searching for a new online savings account, I settled on [ING Direct][1]. A few reasons include a competitive interest rate, good user interface, ability to create sub-accounts (I use these for different savings goals), & most importantly a $25 bonus from using some one else's referral link. It took me until the 4th page on google to find a working link.
 
 So, if you are looking for a new savings account or just a quick and easy $25 dollars, do consider using these below. However, you must fund the account with an initial deposit of $250+. As a bonus, you get $25 (an immediate 10% return 😉 ) and I get $10.
 

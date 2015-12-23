@@ -10,7 +10,7 @@ aliases:
     - /2011/11/gentoo-colemak-keymap-support/
 ---
 
-[Colemak][1] is my new keymap of choice. Luckily, Gentoo Linux supports it well. Unlike some of the crazy instructions people have [posted][2] out [there][3], you only need to edit *2 files* to convert your console and Xorg server. Note, I&#8217;m taking the time to write this because I **couldn&#8217;t** find easy instructions out there&#8230;
+[Colemak][1] is my new keymap of choice. Luckily, Gentoo Linux supports it well. Unlike some of the crazy instructions people have [posted][2] out [there][3], you only need to edit *2 files* to convert your console and Xorg server. Note, I'm taking the time to write this because I **couldn't** find easy instructions out there&#8230;
 
 `<br />
 % cat /etc/conf.d/keymaps<br />

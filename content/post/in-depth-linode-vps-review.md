@@ -79,7 +79,7 @@ My Linode host runs only 3 domains (incl this blog) and email. I share it with 2
 
 The administrative interface is a pleasure to use. I can see my bandwidth usage, cpu usage, and I/O usage very easily. They look like the standard munin graphs &#8211; very handy.
 
-DNS Manager: This is a VERY handy tool, especially when you don&#8217;t have the patience/time to set up your own DNS solution. The DNS manager is a very nice interface to Linode&#8217;s DNS servers. It is esentially one click DNS management. Nothing more to say, it rocks.
+DNS Manager: This is a VERY handy tool, especially when you don't have the patience/time to set up your own DNS solution. The DNS manager is a very nice interface to Linode's DNS servers. It is esentially one click DNS management. Nothing more to say, it rocks.
 
 The admin interface get a 8.5/10.
 

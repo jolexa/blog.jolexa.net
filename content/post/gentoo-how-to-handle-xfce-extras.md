@@ -14,7 +14,7 @@ aliases:
 
 We are cleaning up the XFCE ebuilds via a [new eclass][1]. The current eclasses do not make maintenance any easier, like they should. Some other things on the TODO list include:
 
-  * Remove xfce-4.4 from the tree. 4.6.1 has long since been stable. Caveats: We promised mips that they could have a ~month to keyword 4.6.1. [Gentoo Prefix][2] can&#8217;t easily use 4.6.1 due to the xorg-server dependency.
+  * Remove xfce-4.4 from the tree. 4.6.1 has long since been stable. Caveats: We promised mips that they could have a ~month to keyword 4.6.1. [Gentoo Prefix][2] can't easily use 4.6.1 due to the xorg-server dependency.
   * Rename plugins to match what upstream calls them. For example, what Gentoo calls `xfce-extra/xfce4-cpu-freq`, upstream calls `xfce4-cpufreq-plugin` This is true of all plugins.
   * Remove the meta extras package, `xfce-base/xfce4-extras`.
 
@@ -23,9 +23,9 @@ The last bullet point is where I would like to gain input on how to provide the 
 So some possible options:
 
   1. Remove the meta package completely and let the user emerge what they want. We are leaning towards this one.
-  2. Provide an USE flag for `xfce-base/xfce4` to emerge all these extras, since it is a meta package anyway. This allows arch teams to mask the use flag if they don&#8217;t want to deal with all the plugins. Not a good option though, in my opinion.
+  2. Provide an USE flag for `xfce-base/xfce4` to emerge all these extras, since it is a meta package anyway. This allows arch teams to mask the use flag if they don't want to deal with all the plugins. Not a good option though, in my opinion.
   3. Revbump the meta package everytime there is a new plugin added to the tree.
-  4. Other option that I haven&#8217;t thought of?
+  4. Other option that I haven't thought of?
 
 So, what is it? What would provide the best XFCE experience on Gentoo?
 

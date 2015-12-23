@@ -14,7 +14,7 @@ aliases:
     - /2012/09/gentoo-ipsec-l2tp-vpn-for-ios/
 ---
 
-There are [thousands][1] of guides out there on this [subject][2], however I still struggled to set up an IPSEC VPN at first. This is a HOWTO for my own benefit &#8211; maybe someone else will use it too. I struggled because most of the guides involved setting up the VPN on a NAT&#8217;d host and connecting to the VPN inside the network. I didn&#8217;t do that on my [linode][3], which has a static public IP.
+There are [thousands][1] of guides out there on this [subject][2], however I still struggled to set up an IPSEC VPN at first. This is a HOWTO for my own benefit &#8211; maybe someone else will use it too. I struggled because most of the guides involved setting up the VPN on a NAT'd host and connecting to the VPN inside the network. I didn't do that on my [linode][3], which has a static public IP.
 
 My objectives were clear:
 
@@ -123,7 +123,7 @@ net.ipv4.icmp_ignore_bogus_error_responses = 1
 Remember that sysctl.conf is evaluated at boot so run `sysctl -p` to get the settings enabled now as well.
 
 **Step 5**: Configure firewall (iptables):  
-This is the **critical step** that I wasn&#8217;t grokking from the existing guides in the wild. *Even when bringing the firewall down to test*, you need the NAT/forwarding rules:
+This is the **critical step** that I wasn't grokking from the existing guides in the wild. *Even when bringing the firewall down to test*, you need the NAT/forwarding rules:
 
 <pre># iptables -A FORWARD -m state --state RELATED,ESTABLISHED -j ACCEPT
 # iptables -A FORWARD -s 10.152.2.0/24 -j ACCEPT
@@ -145,7 +145,7 @@ Send All Traffic=On
 
 **Step 7**: Verify it works by going to some [IP display webpage][5] and it should show *1.1.1.1*
 
-**Conclusion**: The above examples should be enough to get the VPN working. There are some tweaking oppurtunities that I didn&#8217;t document or elaborate on. There is plenty of examples out there to look at or research, however. This was all setup without the firewall configuration and the client would connect but there would be no onward internet activity. It acted just like there was a invalid DNS server configured, at that point I looked into setting up a NAT, dnsmasq on the local interface, and other wierd things. In the end, just needed to forward the traffic properly.
+**Conclusion**: The above examples should be enough to get the VPN working. There are some tweaking oppurtunities that I didn't document or elaborate on. There is plenty of examples out there to look at or research, however. This was all setup without the firewall configuration and the client would connect but there would be no onward internet activity. It acted just like there was a invalid DNS server configured, at that point I looked into setting up a NAT, dnsmasq on the local interface, and other wierd things. In the end, just needed to forward the traffic properly.
 
 With that knowledge of the firewall issue, the ultimate instructions would probably be this page: [https://www.openswan.org/projects/openswan/wiki/L2TPIPsec\_configuration\_using\_openswan\_and_xl2tpd][6]
 

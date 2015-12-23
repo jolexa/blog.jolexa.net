@@ -13,7 +13,7 @@ aliases:
     - /2012/10/prague-czech-republic/
 ---
 
-I&#8217;ve been in Prague since Oct 17, 10 days now. I really like the city and hope to explore more of the country soon besides the capital city. The city&#8217;s archetecture is nice because it was virtual untouched during WW2. The culture is somewhat interesting because it was communist until 1989. Now the city is preserving what was left to decay during that era.
+I've been in Prague since Oct 17, 10 days now. I really like the city and hope to explore more of the country soon besides the capital city. The city's archetecture is nice because it was virtual untouched during WW2. The culture is somewhat interesting because it was communist until 1989. Now the city is preserving what was left to decay during that era.
 
 [<img src="http://farm9.staticflickr.com/8056/8126340761_3b4de2be12_n.jpg" width="320" height="240" alt="Prague - Oct 2012-33" />][1]
 

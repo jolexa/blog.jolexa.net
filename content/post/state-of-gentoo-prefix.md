@@ -15,7 +15,7 @@ The [Gentoo Prefix][1] project is still alive and still kicking. There has not b
 Some interesting things to note that I have been working on:
 
   * My [~x86-linux binpkg repo][2] for Gentoo Linux hosts is still running every night. I use this to easily find simple build errors in packages before they hit *too* many users.
-  * I started a ~amd64-linux binpkg repo to add coverage to my nightly automated testing. So, I&#8217;ve updated the [instructions][3] from the above post. This means that you can install your very own Gentoo Prefix installation on a Gentoo Linux host in 5 minutes for 32bit *or* 64 bit now.
+  * I started a ~amd64-linux binpkg repo to add coverage to my nightly automated testing. So, I've updated the [instructions][3] from the above post. This means that you can install your very own Gentoo Prefix installation on a Gentoo Linux host in 5 minutes for 32bit *or* 64 bit now.
   * While those are *updating* everynight. I am now **bootstrapping** everynight too. I set up a small script that debootstraps a Debian Lenny chroot and then sets up an Gentoo Prefix inside the chroot. This will help finding bootstrapping bugs that brand new users may hit. Often times bootstrapping is more sensitive/fragile to tree changes than just updating.
   * We are still migrating packages from the Gentoo Prefix tree to the Gentoo Linux tree. This is going slower than planned but there are not too many people working on it. Current: Over ~2000 packages migrated, still over 700 to go in our [overlay][4]. (Gentoo Prefix tree has [over 7000 packages][5] in it, but not all are tested/keyworded.)
 

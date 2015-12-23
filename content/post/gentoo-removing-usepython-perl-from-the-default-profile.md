@@ -12,7 +12,7 @@ aliases:
 
 Well, I got sick of setting `-python -perl` on my Gentoo hosts, I even consider them &#8220;questionable defaults&#8221; for a majority of Gentoo users..
 
-So, let this be an advanced notice that you may see some rebuilds for useflag changes. There has been sufficient testing such that there should be few to nil problems, but we can&#8217;t test everything. Please file bug reports, if needed.
+So, let this be an advanced notice that you may see some rebuilds for useflag changes. There has been sufficient testing such that there should be few to nil problems, but we can't test everything. Please file bug reports, if needed.
 
 See also:
 

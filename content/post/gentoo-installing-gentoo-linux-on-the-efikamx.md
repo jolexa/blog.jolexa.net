@@ -12,7 +12,7 @@ aliases:
     - /2010/02/gentoo-installing-gentoo-linux-on-the-efikamx/
 ---
 
-Installing Gentoo Linux on the [Genesi EfikaMX][1] ([unboxing][2]) is fairly simple. I have completed documentation for this process [here][3]. I have enjoyed working on this platform and will highly suggest it for applications that need low power and non-extreme hardware specs. Anyway, I&#8217;m not the first to have Gentoo Linux running on EfikaMX, but the first to document the process. Thanks go to Raúl (armin76) for working on the Gentoo [stages][4], [Genesi][5] for the support, et al.
+Installing Gentoo Linux on the [Genesi EfikaMX][1] ([unboxing][2]) is fairly simple. I have completed documentation for this process [here][3]. I have enjoyed working on this platform and will highly suggest it for applications that need low power and non-extreme hardware specs. Anyway, I'm not the first to have Gentoo Linux running on EfikaMX, but the first to document the process. Thanks go to Raúl (armin76) for working on the Gentoo [stages][4], [Genesi][5] for the support, et al.
 
 I would have a screenshot to show here, but it is hard to take a decent picture on my 40&#8243; &#8220;monitor&#8221; 😛
 

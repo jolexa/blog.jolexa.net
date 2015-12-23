@@ -10,7 +10,7 @@ aliases:
     - /2012/07/gentoo-miniconf-linux-days-2012/
 ---
 
-I&#8217;ll be there.
+I'll be there.
 
 [<img class="alignnone" title="bootstrapping-awesome-2012.png" src="http://www.gentoo.org/proj/en/miniconf/banners/2012/07-bootstrapping-awesome-2012.png" alt="" width="400" height="240" />][1]
 

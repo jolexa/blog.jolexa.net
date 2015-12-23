@@ -86,4 +86,4 @@ Step 4:
 Fire up your new VM and start configuring it how you like it. It should seem like a brand new Gentoo install which is pretty bare bones in itself. I would recommend picking a WM to install like GNOME, KDE, or <a href="http://www.gentoo.org/doc/en/xfce-config.xml" target="_blank">Xfce4</a>
 
 Step 5:  
-Have fun. You may be interested in the &#8216;snapshot&#8217; feature of virtualbox. I also hit &#8220;Save State&#8217; when I close my VM. I guess you could analogue that to hibernating or &#8216;pausing&#8217; as it literally comes back to where you were when you fire it up again.
+Have fun. You may be interested in the &#8216;snapshot' feature of virtualbox. I also hit &#8220;Save State' when I close my VM. I guess you could analogue that to hibernating or &#8216;pausing' as it literally comes back to where you were when you fire it up again.

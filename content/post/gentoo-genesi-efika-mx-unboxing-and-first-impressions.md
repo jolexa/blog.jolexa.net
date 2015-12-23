@@ -17,7 +17,7 @@ In the mail today, I got the [Efika MX Open Client][1]. My first impressions are
 That HDMI output makes it the **best** text console I have ever seen on my 40&#8243; 1080p LCD TV! <img src="http://blog.jolexa.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Seriously though, on my TODO:
 
   * Analyze the possibilities for a HTPC. This will be just something fun to do.
-  * [Gentoo Prefix][2] on ARM. This will be the first time, that we know of, that it has been attempted. It shouldn&#8217;t be that hard because Gentoo already has ARM support which means that most apps already work.
+  * [Gentoo Prefix][2] on ARM. This will be the first time, that we know of, that it has been attempted. It shouldn't be that hard because Gentoo already has ARM support which means that most apps already work.
   * Install Gentoo Linux on it and help [armin76][3] document the installation process.
   * Assisting the Gentoo ARM team with providing binary packages and weekly stages for Gentoo Linux users.
   * And more&#8230;

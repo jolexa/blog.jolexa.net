@@ -10,7 +10,7 @@ aliases:
     - /2009/02/new-project-httpplanetskydivenet/
 ---
 
-I&#8217;ve completed my new project, finally. I am proudly releasing <http://planetskydive.net> to the world. Planet Skydive is simply a one stop for people to read skydiving blog posts.
+I've completed my new project, finally. I am proudly releasing <http://planetskydive.net> to the world. Planet Skydive is simply a one stop for people to read skydiving blog posts.
 
 Have you ever wanted to blog about skydiving but thought it was pointless because no one would read it? Well, now you have an audience.
 
@@ -23,10 +23,10 @@ Some post ideas:
   * Your journey at your first bigway camp
   * Some achievement (being selected for a world record attempt, first 4-stack CReW, first otter jump, whatever)
   * Objective review of a new dropzone
-  * Your dog&#8217;s first skydive
+  * Your dog's first skydive
   * Your goal for becoming USPA dictator, I mean, what you are doing on the USPA BOD and why we should care.
 
-If you don&#8217;t have a blog yet and want one. I would highly recommend either [wordpress][2] or [blogger][3]. (both free)
+If you don't have a blog yet and want one. I would highly recommend either [wordpress][2] or [blogger][3]. (both free)
 
  [1]: http://dropzone.com
  [2]: http://wordpress.com/

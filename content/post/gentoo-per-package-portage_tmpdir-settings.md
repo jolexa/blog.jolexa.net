@@ -10,7 +10,7 @@ aliases:
     - /2011/09/gentoo-per-package-portage_tmpdir-settings/
 ---
 
-I don&#8217;t know how many people know about per-package environment variables in portage since 2.1.9 or so. (ref: <a href="https://bugs.gentoo.org/show_bug.cgi?id=44796" target="_blank">bug 44796</a>) It is a worthwhile enhancement to know about, regardless. Like most people, I have my PORTAGE_TMPDIR on tmpfs to speed up compilation times and reduce I/O usage. My 2G tmpfs mounted on /var/tmp/portage is large enough for almost all packages, even multiple jobs at once, however, not all. Solution:
+I don't know how many people know about per-package environment variables in portage since 2.1.9 or so. (ref: <a href="https://bugs.gentoo.org/show_bug.cgi?id=44796" target="_blank">bug 44796</a>) It is a worthwhile enhancement to know about, regardless. Like most people, I have my PORTAGE_TMPDIR on tmpfs to speed up compilation times and reduce I/O usage. My 2G tmpfs mounted on /var/tmp/portage is large enough for almost all packages, even multiple jobs at once, however, not all. Solution:
 
 % cat /etc/portage/package.env  
 app-office/libreoffice notmpfs.conf  

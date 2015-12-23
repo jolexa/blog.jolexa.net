@@ -14,4 +14,4 @@ aliases:
 
 Dear lazyweb,
 
-In your experiences, what has been the best webcam to use with Gentoo? I would like to use skype or some other video messaging app to talk to my girlfriend studying abroad next semester but I haven&#8217;t used (or setup) a webcam before. Thanks all.
+In your experiences, what has been the best webcam to use with Gentoo? I would like to use skype or some other video messaging app to talk to my girlfriend studying abroad next semester but I haven't used (or setup) a webcam before. Thanks all.
