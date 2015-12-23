@@ -8,7 +8,7 @@ id: 136
 tags:
 - economics
 - financial
-title: Upsides of the &quot;financial crisis&quot;
+title: Upsides of the "financial crisis"
 aliases:
     - /2008/10/upsides-of-the-financial-crisis/
 ---
