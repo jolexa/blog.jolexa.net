@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Home of Jeremy Olexa"
 theme = "vienna"
 Paginate = 5
+category = "categories"
 
 [params]
 	twitter = "jolexa"
@@ -11,3 +12,6 @@ Paginate = 5
 	author = "Jeremy Olexa"
 	contact = "mailto:foo@example.com"
 	bio = "short bio here"
+	recentPosts = true
+	recentPostDisplayCount = 5
+	categories = true
