@@ -7,7 +7,7 @@ guid: http://blog.jolexa.net/?p=929
 id: 929
 tags:
 - linode
-title: 'Linode: don't use barriers and ext-4'
+title: Linode don't use barriers and ext-4
 aliases:
     - /2012/02/linode-dont-use-barriers-and-ext-4/
 ---
