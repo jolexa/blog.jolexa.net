@@ -20,7 +20,7 @@ I am writing this because it is not possible to tell EVERYONE that I know in an 
 
 **Who:** Just me. I'm going solo by choice!  
 **What:** "Round-the-world" trip aka sabbatical aka career break  
-**When:** October 2012 -- October 2013 &#8212; 12 months is the GOAL.  
+**When:** October 2012 -- October 2013 -- 12 months is the GOAL.  
 **Where:** There is no set itinerary. See below.  
 **Why:** I have a list of reasons that are motivating me. Some of the reasons are "why not?", "now is the perfect time", "I don't have roots (kids, house, etc)"  
 **How:** To make a long story short, I've been casually thinking of this endeavor for 2+ years. In January 2012, I finally decided that this is the year and made it happen. Then I picked October as a starting date since it seems to be a culmination of a few things, mainly the lease on my apartment is up. Setting a date like that gave me a goal and the rest fell into place.
