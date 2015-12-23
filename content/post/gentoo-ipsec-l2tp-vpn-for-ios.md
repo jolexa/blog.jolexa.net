@@ -19,7 +19,7 @@ There are [thousands][1] of guides out there on this [subject][2], however I sti
 My objectives were clear:
 
   1. Create a connection point that was semi-secure while connecting to open wifi networks
-  2. Bypass some &#8220;You are not in the US&#8221; restrictions while on the [road][4]
+  2. Bypass some "You are not in the US" restrictions while on the [road][4]
 
 **Step 1**: Install applications, net-misc/openswan, net-dialup/xl2tpd  
 **Step 2**: Configure openswan:

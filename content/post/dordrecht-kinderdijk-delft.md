@@ -19,7 +19,7 @@ I went to Dordrecht for just a short time, a very small town. We made a mistake 
 
 [<img src="http://farm9.staticflickr.com/8472/8095077739_08c4998d33_n.jpg" width="320" height="240" alt="Rotterdam 10/2012-189" />][1]
 
-Then I went to Delft for one night and just relaxed at the hostel for the night and bummed around inside while it was raining. Delft is home of the famous hand painted blue and white china -- &#8220;delftware&#8221;. I did manage to stroll around the town briefly (not much to see by foot though). Delft has all the canals and architecture that Amsterdam has but very small and different culture.
+Then I went to Delft for one night and just relaxed at the hostel for the night and bummed around inside while it was raining. Delft is home of the famous hand painted blue and white china -- "delftware". I did manage to stroll around the town briefly (not much to see by foot though). Delft has all the canals and architecture that Amsterdam has but very small and different culture.
 
 [Dordrecht pics][2]  
 [Kinderdijk pics][3]  

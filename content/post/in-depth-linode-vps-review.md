@@ -14,7 +14,7 @@ aliases:
 
 This is a follow up to my [initial linode post][1].
 
-[Linode][2] is a VPS provider. Linode stands for &#8220;Linux Node.&#8221; They offer relatively up to date initial Gentoo installations, among other distros.
+[Linode][2] is a VPS provider. Linode stands for "Linux Node." They offer relatively up to date initial Gentoo installations, among other distros.
 
 Overall Grade: 9.5/10 (because no one is ever perfect)
 
@@ -36,7 +36,7 @@ merge time: 1 minute and 38 seconds.`
 
 The above times compare very nicely to my personal hardware that I have, so I cannot complain about CPU contention.
 
-I do notice some I/O contention during &#8220;peak&#8221; hours. This will result in some slower compile times for the short packages. Since the 360 only offers 360MB of RAM, I cannot leverage that either. This is not a large concern on my part and I am sure it is alot better than other companies that may oversell their hardware.  
+I do notice some I/O contention during "peak" hours. This will result in some slower compile times for the short packages. Since the 360 only offers 360MB of RAM, I cannot leverage that either. This is not a large concern on my part and I am sure it is alot better than other companies that may oversell their hardware.  
 `<br />
 %% sudo hdparm -Tt /dev/xvda<br />
 /dev/xvda:<br />

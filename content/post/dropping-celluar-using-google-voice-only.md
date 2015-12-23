@@ -24,7 +24,7 @@ Some of my personal pro's/con's:
 
   * I must be around two things to use my phone number: a) computing device, b) wifi
   * Wifi voice calling is somewhat sketchy, I'm not sure if it is the [app][4] on my iPad or the wifi service? Regardless, I don't prefer voice calls anyway. I'd rather use skype or facetime.
-  * If I do get a call, I will probably miss it since I am not &#8220;wearing&#8221; my cell phone anymore. However, I can easily return the call without *too* much latency, if I want.
+  * If I do get a call, I will probably miss it since I am not "wearing" my cell phone anymore. However, I can easily return the call without *too* much latency, if I want.
   * *Slightly* less convenient when trying to meet people and/or finding directions to someplace (need to plan ahead better)
 
 I did [setup][5] a US-based VPN so I'm guessing that I will be able to use this service outside the US in the near future too. Of course, I can't test that scenerio, *yet*.

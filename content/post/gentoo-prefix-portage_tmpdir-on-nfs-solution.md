@@ -13,7 +13,7 @@ aliases:
     - /2008/07/gentoo-prefix-portage_tmpdir-on-nfs-solution/
 ---
 
-[Gentoo Prefix][1] allows you to place a &#8220;prefixed environment&#8221; wherever you would like. So, if you want to be able to access your prefix on a NFS network it would make sense to put the prefix in /home for example. I don't have any solid numbers but I can imagine that the IO for the nfs server is pretty high when emerging. I would rather not suffer the penalties of compile on NFS but also I WOULD like to access PORTAGE\_TMPDIR from any host. For the longest time, I was trying to think of a solution for this, that is..to not compile on a NFS share but also be able to see/access PORTAGE\_TMPDIR no matter what host I am on in the network. This is a tricky situation that can be solved by setting PORTAGE_TMPDIR to another NFS mount which just happens to reside on the local machine!
+[Gentoo Prefix][1] allows you to place a "prefixed environment" wherever you would like. So, if you want to be able to access your prefix on a NFS network it would make sense to put the prefix in /home for example. I don't have any solid numbers but I can imagine that the IO for the nfs server is pretty high when emerging. I would rather not suffer the penalties of compile on NFS but also I WOULD like to access PORTAGE\_TMPDIR from any host. For the longest time, I was trying to think of a solution for this, that is..to not compile on a NFS share but also be able to see/access PORTAGE\_TMPDIR no matter what host I am on in the network. This is a tricky situation that can be solved by setting PORTAGE_TMPDIR to another NFS mount which just happens to reside on the local machine!
 
 I like it!!
 

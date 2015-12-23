@@ -16,7 +16,7 @@ A month on the road isn't so bad, eh? So far, I've been living in my van & findi
 
 Notable so far:
 
-  * In June, I set up camp at [Skydive Ramblers][1] and made 30 skydives over a few weeks. That was fun, good dz there with nice people. It was an awesome break from &#8220;working&#8221; at a dz.
+  * In June, I set up camp at [Skydive Ramblers][1] and made 30 skydives over a few weeks. That was fun, good dz there with nice people. It was an awesome break from "working" at a dz.
   * Took a short paragliding course at [High Adventure][2] and figured out how to get the wing over my head and run down a slope. You will see the motivation for this below.
   * Ran north to escape the New South Wales rain/cold (winter).
 

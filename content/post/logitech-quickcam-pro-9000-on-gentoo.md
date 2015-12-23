@@ -13,7 +13,7 @@ aliases:
     - /2009/01/logitech-quickcam-pro-9000-on-gentoo/
 ---
 
-Since there isn't anything extremely relevant in google when searching for &#8220;gentoo quickcam pro 9000&#8243; -- I hope this helps someone.
+Since there isn't anything extremely relevant in google when searching for "gentoo quickcam pro 9000" -- I hope this helps someone.
 
 I [solicited][1] advice from the community for a webcam a couple months back and my girlfriend used the comments to buy me this model for Christmas. It works great, so thanks for recommending it people. =)
 

@@ -16,7 +16,7 @@ Have you ever wanted to blog about skydiving but thought it was pointless becaus
 
 I wanted to have a place that I could subscribe to that would aggregate all the skydiving posts that people wanted to contribute. Anyone can contribute, the only thing that you **cannot do is advertise products for sale**. This is not a classified page, for that you can use [dropzone.com][1]
 
-If you would like to be added to this site, send an email to &#8220;jeremy at jolexa.net&#8221; with your blog address, point of contact email address, province/state & country if you want a flag by your posts. Then you can make a post and it will show up here. This index is updated hourly, so it is not instant.
+If you would like to be added to this site, send an email to "jeremy at jolexa.net" with your blog address, point of contact email address, province/state & country if you want a flag by your posts. Then you can make a post and it will show up here. This index is updated hourly, so it is not instant.
 
 Some post ideas:
 

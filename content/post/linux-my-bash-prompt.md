@@ -56,7 +56,7 @@ and the code that produces that:
     
     PS1='\[\033[1;34m\]\u \[\033[1;32m\]@\[\033[1;34m\] \h \[\033[1;30m\]::\[\033[1;37m\] $(_chomp_path $(pwd)) \[\033[1;30m\]%%\[\033[0m\] '
 
-If anyone wants to improve that function, let me know. It &#8220;fails&#8221; on directories with spaces in it.
+If anyone wants to improve that function, let me know. It "fails" on directories with spaces in it.
 
  [1]: http://ahenobarbi.wordpress.com/2010/06/22/new-terminal-prompt/
  [2]: http://www.linuxized.com/2010/08/quicky-changing-your-shell-prompt

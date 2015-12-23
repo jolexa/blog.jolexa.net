@@ -12,7 +12,7 @@ aliases:
     - /2008/09/firefox-3-awesome-bar/
 ---
 
-Awesome? No, definitely not. I use the &#8220;oldbar&#8221; addon now which brings back the firefox-2 like address bar.
+Awesome? No, definitely not. I use the "oldbar" addon now which brings back the firefox-2 like address bar.
 
 You can get it here: <https://addons.mozilla.org/en-US/firefox/addon/6227>
 

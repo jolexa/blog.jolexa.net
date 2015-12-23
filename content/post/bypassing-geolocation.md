@@ -10,7 +10,7 @@ aliases:
     - /2014/09/bypassing-geolocation/
 ---
 
-By now we all know that it is pretty easy to bypass geolocation blockage with a web proxy or vpn service. After all, there is over 2 million google results on &#8220;bbc vpn&#8221; ... and I wanted to do just that to view a BBC show on privacy and the dark web.
+By now we all know that it is pretty easy to bypass geolocation blockage with a web proxy or vpn service. After all, there is over 2 million google results on "bbc vpn" ... and I wanted to do just that to view a BBC show on privacy and the dark web.
 
 I wanted to set this up as cheaply as possible but not use a service that I had to pay for a month since I only needed one hour. This requirement directed me towards a do-it-yourself solution with an hourly server in the UK. I also wanted reproducibility so that I could spin up a similar service again in the future.
 
@@ -18,7 +18,7 @@ My first attempt was to route my browser through a local SOCKS proxy via ssh tun
 
 Hmm, if this simple proxy won't work then that strikes out many other ideas, I needed a way to use the BBC iPlayer Downloader to view content offline. Ok, but the software doesn't have native proxy support (naturally). Maybe you could somehow use TOR and set the exit node to the UK. That seems like a poor/slow idea.
 
-I ended up routing all my traffic through a personal OpenVPN server in London and then downloaded the show via the BBC software and watched it in HD offline. The goal was to provision the VPN as quickly as possible (time is money). A [Linode StackScript][1] is a feature that Linode offers, it is a user defined script ran at first boot of your host. Surprisingly, no one published one to install OpenVPN yet. So, I did: &#8220;[Debian 7.5 OpenVPN][2]&#8221; -- feel free to use it on the Linode service to boot up a vpn automatically. It takes about two minutes to boot, install, and configure OpenVPN this way. Then you download the ca.crt and client configuration from the newly provisioned server and import it into your client.
+I ended up routing all my traffic through a personal OpenVPN server in London and then downloaded the show via the BBC software and watched it in HD offline. The goal was to provision the VPN as quickly as possible (time is money). A [Linode StackScript][1] is a feature that Linode offers, it is a user defined script ran at first boot of your host. Surprisingly, no one published one to install OpenVPN yet. So, I did: "[Debian 7.5 OpenVPN][2]" -- feel free to use it on the Linode service to boot up a vpn automatically. It takes about two minutes to boot, install, and configure OpenVPN this way. Then you download the ca.crt and client configuration from the newly provisioned server and import it into your client.
 
 **End result**: It took 42 minutes for me to download a one hour show. Since I shut down the VPN within an hour, I was charged the Linode minimum, $.015 USD. Though I recommend Linode (you can use my [referral link][3] if you want), this same concept applies to any provider that has a presence in the UK, like Digital Ocean who charges $.007/hour.
 

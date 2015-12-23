@@ -18,7 +18,7 @@ Welcome to my inaugural blog post.
 
 I am home today, relaxing, after an eventful weekend up north in [Twig, MN][1].
 
-Perhaps the funnest thing was on July 4th morning when we went to a nearby town's parade which highlighted a drunken clown band at the end. Quite interesting to say the least! (especially, when you have had quite a few drinks yourself before noon! A big &#8220;good job&#8221; goes out to Kel for buying drinks until we were both inebriated).
+Perhaps the funnest thing was on July 4th morning when we went to a nearby town's parade which highlighted a drunken clown band at the end. Quite interesting to say the least! (especially, when you have had quite a few drinks yourself before noon! A big "good job" goes out to Kel for buying drinks until we were both inebriated).
 
 Then after we took a nap and woke up hungover, we went down to the Lake Superior shore and watched the city of Duluth's fireworks show...pretty good.
 

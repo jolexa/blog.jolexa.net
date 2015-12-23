@@ -19,7 +19,7 @@ Every reboot, you will see:
 `EXT4-fs error (device xvda): ext4_journal_start_sb:296: Detected aborted journal<br />
 EXT4-fs (xvda): Remounting filesystem read-only<br />
 `  
-and a subsequent reboot fixes this by a forced run of fsck. Now that is an annoying one, every other reboot results in a crippled system and otherwise a fsck &#8220;fixes&#8221; it and you have no issues.
+and a subsequent reboot fixes this by a forced run of fsck. Now that is an annoying one, every other reboot results in a crippled system and otherwise a fsck "fixes" it and you have no issues.
 
 So, after some research I found that [barriers are enabled by default][3] and they don't really make sense on a hosted vm guest. I qualify the last statement by google research, not an expert but it seems that the common knowledge is that disabling barriers is safe for battery backed up storage, and Linode disabled barriers completly.
 

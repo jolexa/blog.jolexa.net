@@ -19,7 +19,7 @@ We have a core group of [Gentoo Prefix][2] users in #gentoo-prefix on freenode. 
   * GNU-ifying your non-GNU host, like Solaris, HP-UX, AIX, etc. (userland only, of course)
   * Providing a similar environment across distros for your simulated build/customer environment.
   * Using the familiar Gentoo/Portage on a non familiar OS
-  * &#8220;I use Gentoo Prefix because it is cool&#8221; -grobian
+  * "I use Gentoo Prefix because it is cool" -grobian
 
 For a more detailed use-case analysis on some of the points above, please [read here][3]. Otherwise, enjoy!
 

@@ -12,7 +12,7 @@ aliases:
     - /2009/04/apple-abuses-iphone-developer-program/
 ---
 
-The latest series of iPhone TV commercials really bug me. First of all it *costs* at least $99 to [obtain access][1] to the &#8220;Developer Program&#8221;. Then Apple has the guts to advertise that they have &#8220;the most apps evar!&#8221; to stimulate more iPhone sales. What is wrong with this picture? If Apple is going to exploit the work of apps developers, many of whom distribute their apps for free, then shouldn't the cost to join the developer network be free as well? I mean, it **is** Apple that is gaining the most from this (maybe [ATT][2], but that is debatable).
+The latest series of iPhone TV commercials really bug me. First of all it *costs* at least $99 to [obtain access][1] to the "Developer Program". Then Apple has the guts to advertise that they have "the most apps evar!" to stimulate more iPhone sales. What is wrong with this picture? If Apple is going to exploit the work of apps developers, many of whom distribute their apps for free, then shouldn't the cost to join the developer network be free as well? I mean, it **is** Apple that is gaining the most from this (maybe [ATT][2], but that is debatable).
 
 Seems silly to me compared to the model of Free Open Source Software, that is all.
 

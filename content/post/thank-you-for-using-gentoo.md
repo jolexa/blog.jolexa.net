@@ -18,4 +18,4 @@ aliases:
 
 -- Gentoo user (<https://bugs.gentoo.org/show_bug.cgi?id=249390#c3>)
 
-Just wanted to say thanks myself to all the Gentoo Users out there that are participating in this &#8220;community distro&#8221; as well. You are the people that keep this machine rolling and keep Gentoo devs motivated.
+Just wanted to say thanks myself to all the Gentoo Users out there that are participating in this "community distro" as well. You are the people that keep this machine rolling and keep Gentoo devs motivated.

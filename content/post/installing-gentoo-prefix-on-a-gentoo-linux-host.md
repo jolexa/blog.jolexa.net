@@ -12,7 +12,7 @@ aliases:
 
 **Target Audience:** <span style="text-decoration: underline;">Gentoo Linux developers</span> or people otherwise interested in trying out Gentoo Prefix on a Gentoo Linux host.
 
-The most often asked questions I hear are either: *What is Gentoo Prefix about?* or *How is this Gentoo Prefix change going to work on normal Gentoo Linux hosts?* As such, I have taken the time to put together a small, concise instruction document, [here][1]. If you have 20 minutes and 600M of free disk space, I encourage you to try out Gentoo Prefix on your Gentoo Linux host. This way, you can find out &#8220;what Gentoo Prefix is about&#8221; for yourself instead of just listening to us.
+The most often asked questions I hear are either: *What is Gentoo Prefix about?* or *How is this Gentoo Prefix change going to work on normal Gentoo Linux hosts?* As such, I have taken the time to put together a small, concise instruction document, [here][1]. If you have 20 minutes and 600M of free disk space, I encourage you to try out Gentoo Prefix on your Gentoo Linux host. This way, you can find out "what Gentoo Prefix is about" for yourself instead of just listening to us.
 
 **Resources:**
 

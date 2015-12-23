@@ -14,7 +14,7 @@ aliases:
 
 I recently had a bit of downtime on my linode. If you are wondering what a &#8216;*linode*&#8216; is, check out my [review][1] or the [website][2]. And a big thank you to the folks that used my [referral code][3] when they got setup with linode themselves, you guys rock!
 
-So, about my recent 1/2 day downtime. It was self-inflicted because I wanted to move to a different datacenter. I moved my linode from Newark, NJ to Dallas, TX. It is quite a long story, but it boils down to a problem with my ISP (Comcast). I was only able to pull 100K/s from the Newark datacenter and 2-3M/s from the others. This was unacceptable. I tried to get it escalated past Comcast's frontline support but they kept asking me questions like *&#8220;Do you use a router? If so, each computer only gets 1/2 the speed&#8221;* & *&#8220;Every computer is different. I'm glad that you can get 3M/s from another host, that is really good&#8221;* **Sigh.**
+So, about my recent 1/2 day downtime. It was self-inflicted because I wanted to move to a different datacenter. I moved my linode from Newark, NJ to Dallas, TX. It is quite a long story, but it boils down to a problem with my ISP (Comcast). I was only able to pull 100K/s from the Newark datacenter and 2-3M/s from the others. This was unacceptable. I tried to get it escalated past Comcast's frontline support but they kept asking me questions like *"Do you use a router? If so, each computer only gets 1/2 the speed"* & *"Every computer is different. I'm glad that you can get 3M/s from another host, that is really good"* **Sigh.**
 
 At least Linode's customer server was helpful and allowed me to work around the <censored> ISP. The steps to move a linode are as follows:
 

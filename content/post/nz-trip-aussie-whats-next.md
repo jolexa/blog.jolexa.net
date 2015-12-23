@@ -23,7 +23,7 @@ New Zealand was totally rad. It was exactly what people say regarding seeing all
 
 [New Zealand Pics][3]
 
-Then, I came back to Aussie on my travel high and hung out in Maitland for a few weeks, &#8220;working&#8221; and having fun. Then I was off to a skydiving event, the West Coast Sundowner in York, Western Australia (a 5 hour flight from Sydney). Skydiving with some awesome people and meeting some new and old friends. That brings me here. Now.
+Then, I came back to Aussie on my travel high and hung out in Maitland for a few weeks, "working" and having fun. Then I was off to a skydiving event, the West Coast Sundowner in York, Western Australia (a 5 hour flight from Sydney). Skydiving with some awesome people and meeting some new and old friends. That brings me here. Now.
 
 Next...
 

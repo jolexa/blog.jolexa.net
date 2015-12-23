@@ -15,7 +15,7 @@ I don't know how many people know about per-package environment variables in por
 % cat /etc/portage/package.env  
 app-office/libreoffice notmpfs.conf  
 % cat /etc/portage/env/notmpfs.conf  
-PORTAGE_TMPDIR=&#8221;/var/tmp/notmpfs&#8221;
+PORTAGE_TMPDIR="/var/tmp/notmpfs"
 
 (More info available in the portage man page)
 

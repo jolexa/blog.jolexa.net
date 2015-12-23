@@ -10,7 +10,7 @@ aliases:
     - /2008/09/gentoo-bugday-and-maintainer-needed-packages/
 ---
 
-In response to [Bugday][1] and my willingness to help, I want to help users that contribute. I won't be around for Bugday and I am normally not available on the weekends. So, here is what I am willing to do.. On any maintainer-needed bug, if you fix the issue, feel free to CC me (`darkside (at) gentoo.org`) on it. You should say something like &#8220;darkside: I fixed this and tested it, please commit&#8221; and I will review it and commit it.
+In response to [Bugday][1] and my willingness to help, I want to help users that contribute. I won't be around for Bugday and I am normally not available on the weekends. So, here is what I am willing to do.. On any maintainer-needed bug, if you fix the issue, feel free to CC me (`darkside (at) gentoo.org`) on it. You should say something like "darkside: I fixed this and tested it, please commit" and I will review it and commit it.
 
 Do **not**:
 

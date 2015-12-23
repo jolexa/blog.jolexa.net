@@ -7,7 +7,7 @@ guid: http://blog.jolexa.net/?p=472
 id: 472
 tags:
 - xfce
-title: 'Gentoo: How to handle &#8220;xfce extras&#8221;?'
+title: 'Gentoo: How to handle "xfce extras"?'
 aliases:
     - /2009/08/gentoo-how-to-handle-xfce-extras/
 ---

@@ -14,10 +14,10 @@ I have been thinking for awhile now and can't convince myself of an answer.
 
 **Does the lack of yearly releases help or hurt Gentoo?**
 
-I enjoy Gentoo because I never have to re-install my host. The &#8220;rolling release&#8221; model is great, a model shared by nearly all(?) source-based distros. However, with our new automated weekly stages -- which I think are a great idea, we lose a few things. In no particular order, we lose:
+I enjoy Gentoo because I never have to re-install my host. The "rolling release" model is great, a model shared by nearly all(?) source-based distros. However, with our new automated weekly stages -- which I think are a great idea, we lose a few things. In no particular order, we lose:
 
   * PR -- new &#8216;releases' generate a buzz on the distro sites and blog-o-sphere around the world.
-  * Ability to say &#8220;we no longer support base installs before 20XX.Y&#8221; -- repo changes, bash versions, portage upgrades, etc.
+  * Ability to say "we no longer support base installs before 20XX.Y" -- repo changes, bash versions, portage upgrades, etc.
   * The appearance of activity. (This point is debatable)
 
 However, with that being said, I think that yearly releases are also pointless with the presence of weekly stages, because:
