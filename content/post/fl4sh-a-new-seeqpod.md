@@ -5,7 +5,7 @@ categories:
 date: 2009-12-01T00:00:00Z
 guid: http://blog.jolexa.net/?p=548
 id: 548
-title: FL4SH &#8211; A new seeqpod
+title: FL4SH -- A new seeqpod
 aliases:
     - /2009/12/fl4sh-a-new-seeqpod/
 ---

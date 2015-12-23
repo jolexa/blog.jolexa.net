@@ -16,7 +16,7 @@ Some personal highlights:
 
   * [NPSL][2] Meet 4. Our team, Wissota Wild, finished in 2nd place for this meet and 2nd place overall. Whoever won this meet was going to win the overall standings. We had one bad round and it cost us. Congrats Team JETT
   * [PD][3] was onsite and I got to demo 2 different canopies for 71% of my total jumps, that is 10 jumps on demos and 4 on my own canopy. Two fold, a) I didn't put wear on my own canopy, b) The Katana is a very fun canopy, I wanna get one! 😉
-  * AWESOME jumps, this year I made a point to make some off the wall jumps, including something called a &#8220;Tube Jump&#8221; and a &#8220;Magic Carpet&#8221; &#8211; The tube was insanely fun. 3&#215;3, 9 person, that we rolled out of the back of the [SkyVan.][4]The tube spun forward about 3 times, backward about 1.5, stalled out, and then silo'd, estimated speeds of 150-160+ mph. It lasted until about 8000 feet until Marty let go of it. Then it broke up and people were scattered all over because we were going so fast. 
+  * AWESOME jumps, this year I made a point to make some off the wall jumps, including something called a &#8220;Tube Jump&#8221; and a &#8220;Magic Carpet&#8221; -- The tube was insanely fun. 3&#215;3, 9 person, that we rolled out of the back of the [SkyVan.][4]The tube spun forward about 3 times, backward about 1.5, stalled out, and then silo'd, estimated speeds of 150-160+ mph. It lasted until about 8000 feet until Marty let go of it. Then it broke up and people were scattered all over because we were going so fast. 
   * My first [Caravan][5] jump, kinda neat but not a plane to write home about. 
   * Oh yea, free beer `24x7` 😀
 

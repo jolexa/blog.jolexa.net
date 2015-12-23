@@ -14,7 +14,7 @@ aliases:
     - /2012/09/gentoo-ipsec-l2tp-vpn-for-ios/
 ---
 
-There are [thousands][1] of guides out there on this [subject][2], however I still struggled to set up an IPSEC VPN at first. This is a HOWTO for my own benefit &#8211; maybe someone else will use it too. I struggled because most of the guides involved setting up the VPN on a NAT'd host and connecting to the VPN inside the network. I didn't do that on my [linode][3], which has a static public IP.
+There are [thousands][1] of guides out there on this [subject][2], however I still struggled to set up an IPSEC VPN at first. This is a HOWTO for my own benefit -- maybe someone else will use it too. I struggled because most of the guides involved setting up the VPN on a NAT'd host and connecting to the VPN inside the network. I didn't do that on my [linode][3], which has a static public IP.
 
 My objectives were clear:
 

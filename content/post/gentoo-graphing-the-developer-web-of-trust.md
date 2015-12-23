@@ -14,7 +14,7 @@ aliases:
 
 I graphed the [Gentoo Developer Web of Trust][1], as motivated by the (outdated) [Debian Web of Trust][2].
 
-Graph (same as link above) &#8211; Redrawn weekly : <http://qa-reports.gentoo.org/output/wot-graph.png>  
+Graph (same as link above) -- Redrawn weekly : <http://qa-reports.gentoo.org/output/wot-graph.png>  
 Stats per Node : <http://qa-reports.gentoo.org/output/wot-stats.html>  
 Source : <http://git.overlays.gentoo.org/gitweb/?p=proj/qa-scripts.git;a=blob;f=gen-dev-wot.sh;hb=HEAD>
 

@@ -23,7 +23,7 @@ My last post was about my time in Greece. Since then I have been to Istanbul, Du
   * **-:** Istanbul receives many visitors per year, which makes it very touristy in some parts.
   * **+:** Istanbul is a huge city and there is much to see. I stepped on Asia for the first time. There are many old, old, buildings that leave you in awe. Oldest shopping area in the world, the Grand Bazaar, stuff like that.
   * **-:** Istanbul is a huge city and the public transit is not well connected, I thought.
-  * **&#8211;:** Every shop owner harasses you to come in the store! The best defense that I can recommend is to walk with a purpose (like you are running an errand) but not in a hurry. This will bring the least amount of attention to yourself at risk of &#8220;missing&#8221; the finer details as you meander.
+  * **--:** Every shop owner harasses you to come in the store! The best defense that I can recommend is to walk with a purpose (like you are running an errand) but not in a hurry. This will bring the least amount of attention to yourself at risk of &#8220;missing&#8221; the finer details as you meander.
 
 [<img src="https://farm9.staticflickr.com/8054/8390654930_bfd7dd5af3_n.jpg" width="320" height="240" alt="Turkey - Jan 2013-67" />][1]
 

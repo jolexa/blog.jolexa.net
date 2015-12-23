@@ -14,7 +14,7 @@ aliases:
 
 We have a core group of [Gentoo Prefix][2] users in #gentoo-prefix on freenode. I took a poll and gathered up all the use cases for Gentoo Prefix. They are in somewhat of an order:
 
-  * Bringing a Gentoo userland to your MacBook (macos/darwin) &#8211; without modifying the <del>eye-candy</del> host OS.
+  * Bringing a Gentoo userland to your MacBook (macos/darwin) -- without modifying the <del>eye-candy</del> host OS.
   * Allowing easy package management on your host where you do not have privileged access.  No more manual `./configure --prefix=~/foo && make && make install`
   * GNU-ifying your non-GNU host, like Solaris, HP-UX, AIX, etc. (userland only, of course)
   * Providing a similar environment across distros for your simulated build/customer environment.

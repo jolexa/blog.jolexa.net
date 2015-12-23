@@ -10,7 +10,7 @@ aliases:
     - /2012/12/november-2012-wrap-up/
 ---
 
-To wrap up my November, I finished up my stay in Prague. The below were two-day trips, where I was embracing *home-base travel* &#8211; meaning I would go somewhere then come back.
+To wrap up my November, I finished up my stay in Prague. The below were two-day trips, where I was embracing *home-base travel* -- meaning I would go somewhere then come back.
 
 Before I left the Czech Republic, I also went to <u>Cesky Krumlov</u>, an amazing medieval town, UNESCO town, castle, brewery, winding streets, very glad I went there. I'm thinking about how to get back there during the summer. Cesky Krumlov is the second most visited city in the Czech Republic. I took the train there and the bus back. The train was quite nice but there was a few connections, at one point I was following the herd as we went from train to bus to train and I was confused but it worked out in the end. I got to Krumlov, walked to the hostel [Krumlov House][1] (recommended), ate at the delicious Two Marys restaurant, hung out with the staff, and went to a local bar. Then I walked around the castle, went to a brewery tour, relaxed for a few days, and took it all in. I took the bus back to Prague because it was quicker and cheaper.
 
@@ -18,7 +18,7 @@ Before I left the Czech Republic, I also went to <u>Cesky Krumlov</u>, an amazin
 (The view of the city from the castle)  
 [Cesky Krumlov Pics][3]
 
-Dresden, Germany for a few days. I carpooled here with 3 other Germans as they were going home for the weekend and then couchsurfed. The generosity of people is amazing in this world. I was only there for a few nights, the first night, I walked around then ate out with my host. The next day, I went to the Botanical gardens (many pictures for my Grandpa), the VW Factory (no pictures allowed) &#8211; I'd recommend the glass factory tour to those that are engineering types, it is quite nice, then I walked around the city some. Went into a church, climbed to the top viewing point, and went out to eat again and chatted worldly topics with my host. She never had a guest from the USA before. The very unique thing about Dresden, even though it looks old, it is not since it was rebuilt after the war. I also carpooled back, the Germans love to be efficient.
+Dresden, Germany for a few days. I carpooled here with 3 other Germans as they were going home for the weekend and then couchsurfed. The generosity of people is amazing in this world. I was only there for a few nights, the first night, I walked around then ate out with my host. The next day, I went to the Botanical gardens (many pictures for my Grandpa), the VW Factory (no pictures allowed) -- I'd recommend the glass factory tour to those that are engineering types, it is quite nice, then I walked around the city some. Went into a church, climbed to the top viewing point, and went out to eat again and chatted worldly topics with my host. She never had a guest from the USA before. The very unique thing about Dresden, even though it looks old, it is not since it was rebuilt after the war. I also carpooled back, the Germans love to be efficient.
 
 [Dresden Pics][4]
 

@@ -14,7 +14,7 @@ aliases:
     - /2012/11/kutna-hora-olomouc-weekend-trip/
 ---
 
-I took a weekend trip to Kutná Hora and Olomouc. Kutná Hora was on the way via train so I got off there (with a small connection train) and visited the Bone Church, a common gravesite of over 40,000 people. I feel like it is one of those things that will just disappear someday &#8211; bones won't last forever in the open air like that. 
+I took a weekend trip to Kutná Hora and Olomouc. Kutná Hora was on the way via train so I got off there (with a small connection train) and visited the Bone Church, a common gravesite of over 40,000 people. I feel like it is one of those things that will just disappear someday -- bones won't last forever in the open air like that. 
 
 [<img src="http://farm9.staticflickr.com/8480/8185750920_98df61c565_n.jpg" width="320" height="240" alt="Prague - Oct 2012-121" />][1]
 

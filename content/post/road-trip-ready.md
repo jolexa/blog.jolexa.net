@@ -18,7 +18,7 @@ I took the seats out of the van, put a bed in the back and now I'm ready to go.
 
 [<img src="https://blog.jolexa.net/wp-content/uploads/2013/06/20130610-173348.jpg" alt="20130610-173348.jpg" class="alignnone size-full" />][3]
 
-My grand plan is to go all the way around Australia. Some people tell me it is 25,000km or so. I have no real time commitments (as always), so for now I'm heading &#8220;north&#8221; &#8211; to where it is warmer. I think I'm the only guy chasing mild winter on my rtw trip, no more! I'm leaving Maitland with new friends to visit again and I did about 250+ jumps in the 3 months I was working there, good times.
+My grand plan is to go all the way around Australia. Some people tell me it is 25,000km or so. I have no real time commitments (as always), so for now I'm heading &#8220;north&#8221; -- to where it is warmer. I think I'm the only guy chasing mild winter on my rtw trip, no more! I'm leaving Maitland with new friends to visit again and I did about 250+ jumps in the 3 months I was working there, good times.
 
 [<img src="https://blog.jolexa.net/wp-content/uploads/2013/06/20130610-173933.jpg" alt="20130610-173933.jpg" class="alignnone size-full" />][4]
 

@@ -47,7 +47,7 @@ These timings are not great, I agree.
 
 ## <span style="text-decoration: underline;">Customer Service / Service Requests:</span>
 
-I have not had a reason to submit a hardware service request. So, my experience in this area is limited to two administrative issues that I needed to take care of with regards to billing changes. Linode gets a 10/10 in this area. The customer service staff member (Tom Asaro) resolved my requests within hours at very *odd* times. I normally do most of my hobby work during the evening, I submitted these requests around midnight (GMT -5) and they were resolved by the time I woke up. Keep in mind, that my requests were not even close to top priority &#8211; I would have been happy if they were resolved within a week.
+I have not had a reason to submit a hardware service request. So, my experience in this area is limited to two administrative issues that I needed to take care of with regards to billing changes. Linode gets a 10/10 in this area. The customer service staff member (Tom Asaro) resolved my requests within hours at very *odd* times. I normally do most of my hobby work during the evening, I submitted these requests around midnight (GMT -5) and they were resolved by the time I woke up. Keep in mind, that my requests were not even close to top priority -- I would have been happy if they were resolved within a week.
 
 Regarding hardware issues, the Linode staff members are very responsive to any DDoS attacks, host crashes, etc. The forums activity by staff members is top notch, always keeping us informed. You can find staff members in the irc channel very frequently, even answering my stupid questions. 😛
 
@@ -77,7 +77,7 @@ My Linode host runs only 3 domains (incl this blog) and email. I share it with 2
 
 ## <span style="text-decoration: underline;">UI / Admin Interface:</span>
 
-The administrative interface is a pleasure to use. I can see my bandwidth usage, cpu usage, and I/O usage very easily. They look like the standard munin graphs &#8211; very handy.
+The administrative interface is a pleasure to use. I can see my bandwidth usage, cpu usage, and I/O usage very easily. They look like the standard munin graphs -- very handy.
 
 DNS Manager: This is a VERY handy tool, especially when you don't have the patience/time to set up your own DNS solution. The DNS manager is a very nice interface to Linode's DNS servers. It is esentially one click DNS management. Nothing more to say, it rocks.
 

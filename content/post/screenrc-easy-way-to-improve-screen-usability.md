@@ -5,7 +5,7 @@ categories:
 date: 2009-11-30T00:00:00Z
 guid: http://blog.jolexa.net/?p=534
 id: 534
-title: screenrc &#8211; easy way to improve screen usability
+title: screenrc -- easy way to improve screen usability
 aliases:
     - /2009/11/screenrc-easy-way-to-improve-screen-usability/
 ---

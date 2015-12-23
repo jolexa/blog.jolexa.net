@@ -13,7 +13,7 @@ aliases:
     - /2010/04/gentoo-static-ipv4-ipv6-he-net-tunnel/
 ---
 
-For some reason, [Linode.com][1] (my [review][2]) sets up their hosts to use dhcpd to grab the static IPv4 address on boot. This is in contrast to [Host Virtual][3] which uses the &#8220;Gentoo-way&#8221; to set static addresses. Now, there isn't anything exactly *wrong* with using dhcpd on hosts with static addresses, actually, it may be simpler (and this is probably why they did it). However, I don't like it for a few reasons, booting takes longer as it probes for IPs and it uses extra space for dhcpd binary on a low resource host &#8211; this includes extra time for updating. I know these are minor issues, but they bother me, at least. So, let's take the easy way and assign eth0 the IP is should have:
+For some reason, [Linode.com][1] (my [review][2]) sets up their hosts to use dhcpd to grab the static IPv4 address on boot. This is in contrast to [Host Virtual][3] which uses the &#8220;Gentoo-way&#8221; to set static addresses. Now, there isn't anything exactly *wrong* with using dhcpd on hosts with static addresses, actually, it may be simpler (and this is probably why they did it). However, I don't like it for a few reasons, booting takes longer as it probes for IPs and it uses extra space for dhcpd binary on a low resource host -- this includes extra time for updating. I know these are minor issues, but they bother me, at least. So, let's take the easy way and assign eth0 the IP is should have:
 
     
     Snippet from: /etc/conf.d/net

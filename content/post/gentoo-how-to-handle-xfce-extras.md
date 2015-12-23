@@ -18,7 +18,7 @@ We are cleaning up the XFCE ebuilds via a [new eclass][1]. The current eclasses 
   * Rename plugins to match what upstream calls them. For example, what Gentoo calls `xfce-extra/xfce4-cpu-freq`, upstream calls `xfce4-cpufreq-plugin` This is true of all plugins.
   * Remove the meta extras package, `xfce-base/xfce4-extras`.
 
-The last bullet point is where I would like to gain input on how to provide the best user experience for xfce users on Gentoo. We are contemplating on removing the meta package because: it is tricky to add new plugins to it (requires more arch team work via rev bumps). Renaming plugins will require more work because of the meta package. And finally, what is the point of this meta package (some would ask) &#8211; outdated, etc.
+The last bullet point is where I would like to gain input on how to provide the best user experience for xfce users on Gentoo. We are contemplating on removing the meta package because: it is tricky to add new plugins to it (requires more arch team work via rev bumps). Renaming plugins will require more work because of the meta package. And finally, what is the point of this meta package (some would ask) -- outdated, etc.
 
 So some possible options:
 
