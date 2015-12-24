@@ -32,6 +32,7 @@ aliases:
   * 2010: Canada
   * 2012: Netherlands, Czech Republic, Germany, Austria, Hungary, Serbia, FYROM, Greece
   * 2013: Turkey, United Arab Emirates, Sri Lanka, Australia, New Zealand, Japan
+  * 2015: India (work trip)
 
 **Contact Me via:**
 
