@@ -7,7 +7,7 @@ guid: http://blog.jolexa.net/about-2/
 aliases:
 - "/about"
 ---
-**A rough timeline of some life events that is fitting for an &#8220;About&#8221; page:**
+**A rough timeline of some life events that is fitting for an "About" page:**
 
   * 1986: Born.
   * 2004: Graduated High School.
@@ -24,7 +24,7 @@ aliases:
   * Technology. Self described tech enthusiast.
   * Software. Very interested in Free and Open Source Software, contribute and support.
 
-**Countries I&#8217;ve been to (not stop-overs):**
+**Countries I've been to (not stop-overs):**
 
   * 2008: Mexico
   * 2009: France
@@ -35,17 +35,8 @@ aliases:
 **Contact Me via:**
 
   * Twitter: [@jolexa][5]
-  * Facebook: <http://www.facebook.com/jolexa> FYI, I won&#8217;t accept friend requests from people that I haven&#8217;t met in person, you can follow me on another networks if you wish. 
   * Photo Collection, Flickr: <http://www.flickr.com/photos/jolexa> 
 
-
-
-  * Phone: 612-481-8750 Google Voice, probably won&#8217;t answer to be honest
-
-  * Or, you can just contact me via this form (email):
-
-<div id='contact-form-9'>
-</div>
 
  [1]: http://www.symantec.com/
  [2]: http://cse.umn.edu/index.php
