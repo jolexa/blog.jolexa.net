@@ -4,6 +4,7 @@ title = "Home of Jeremy Olexa"
 theme = "vienna"
 Paginate = 5
 category = "categories"
+copyright = "&copy; Copyright 2008-2015 | jolexa.net"
 
 [params]
 	twitter = "jolexa"
@@ -15,3 +16,4 @@ category = "categories"
 	recentPosts = true
 	recentPostDisplayCount = 5
 	categories = true
+	disqus = "testjolexa-wp"
