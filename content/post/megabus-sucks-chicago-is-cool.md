@@ -22,7 +22,7 @@ Ok, rant about megabus is over. **Bottom line**: You will probably be disappoint
 Chicago was neat though -- we got to see "The Bean" (below)
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-234" title="the_bean" src="https://blog.jolexa.net/wp-content/uploads/2009/02/the_bean.jpg" alt="the_bean" width="423" height="317" />
+  <img class="aligncenter size-full wp-image-234" title="the_bean" src="/wp-content/uploads/2009/02/the_bean.jpg" alt="the_bean" width="423" height="317" />
 </p>
 
 <p style="text-align: left;">

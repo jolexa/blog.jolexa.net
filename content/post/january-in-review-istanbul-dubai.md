@@ -29,12 +29,12 @@ My last post was about my time in Greece. Since then I have been to Istanbul, Du
 
 Let's not joke anyone, Dubai was a skydiving trip, for sure. I spent 15 days in Dubai and made 30 jumps. It was a blast. I was at the dropzone most everyday and on the weather days, my generous hosts showed me around the city. I didn't feel the need to take any pictures of the sites because, while impressive, they seemed too "fake" to me (outrageous, silly, etc). I went to the largest mall in the world, ate brunch in the shadow of the largest building in the world, largest aquarium, indoor ski hill in a desert, eventually it was just...meh. However, I will never forget "The Palm" 
 
-<img src="https://blog.jolexa.net/wp-content/uploads/2013/02/319797_792183461765_1287309426_n.jpg" alt="319797_792183461765_1287309426_n" width="960" height="720" class="alignleft size-full wp-image-5825" />
+<img src="/wp-content/uploads/2013/02/319797_792183461765_1287309426_n.jpg" alt="319797_792183461765_1287309426_n" width="960" height="720" class="alignleft size-full wp-image-5825" />
 
 When deciding where to go onwards, as I knew I shouldn't stay in Dubai too long (money matters, of course, I would spend my whole lot on fun and there is so much more to see). I ended up in Sri Lanka, because [skyscanner][2] told me there was a direct flight there on a budget airline. I don't see the point in accepting layovers in my flight details at my pace. Then I found someone on HelpX that wanted an English teacher in exchange for accommodation. While I'm not a teacher, I am a native speaker, and that was acceptable at this level of classes. I did a week stint of that in a small village and now I'm relaxing at the beach...I'll write more about Sri Lanka later and post pics, a fun photo so far:
 
-[<img src="https://blog.jolexa.net/wp-content/uploads/2013/02/20130209-134926.jpg" alt="20130209-134926.jpg" class="alignnone size-full" />][3]
+[<img src="/wp-content/uploads/2013/02/20130209-134926.jpg" alt="20130209-134926.jpg" class="alignnone size-full" />][3]
 
  [1]: http://www.flickr.com/photos/jolexa/8390654930/ "Turkey - Jan 2013-67 by jolexa112, on Flickr"
  [2]: http://skyscanner.com
- [3]: https://blog.jolexa.net/wp-content/uploads/2013/02/20130209-134926.jpg
+ [3]: /wp-content/uploads/2013/02/20130209-134926.jpg

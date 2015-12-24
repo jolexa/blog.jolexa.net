@@ -18,7 +18,7 @@ A few weeks ago, I returned from a 12 day skydiving trip to [Skydive Arizona][2]
 
 So, a great success overall. I made 53 skydives in 10 days (minus 2 days for the food poisoning incident) and had a great time. There are pictures of the CRW camp, [here][3]. A couple of my favorites are these...
 
-[<img class="alignleft size-full wp-image-902" title="Jan_07_12 038" src="https://blog.jolexa.net/wp-content/uploads/2012/01/Jan_07_12-038.jpg" alt="" width="479" height="600" />][4]
+[<img class="alignleft size-full wp-image-902" title="Jan_07_12 038" src="/wp-content/uploads/2012/01/Jan_07_12-038.jpg" alt="" width="479" height="600" />][4]
 
 &nbsp;
 
@@ -66,10 +66,10 @@ So, a great success overall. I made 53 skydives in 10 days (minus 2 days for the
 
 And of course, my cutaway...
 
-[<img class="alignleft size-full wp-image-903" title="Jan_07_12 062" src="https://blog.jolexa.net/wp-content/uploads/2012/01/Jan_07_12-062.jpg" alt="" width="479" height="600" />][5]
+[<img class="alignleft size-full wp-image-903" title="Jan_07_12 062" src="/wp-content/uploads/2012/01/Jan_07_12-062.jpg" alt="" width="479" height="600" />][5]
 
  [1]: http://planetskydive.net/
  [2]: http://www.skydiveaz.com/
  [3]: http://www.laszloimage.com/2012/January_2012/index.htm
- [4]: https://blog.jolexa.net/wp-content/uploads/2012/01/Jan_07_12-038.jpg
- [5]: https://blog.jolexa.net/wp-content/uploads/2012/01/Jan_07_12-062.jpg
+ [4]: /wp-content/uploads/2012/01/Jan_07_12-038.jpg
+ [5]: /wp-content/uploads/2012/01/Jan_07_12-062.jpg

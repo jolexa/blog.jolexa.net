@@ -13,7 +13,7 @@ aliases:
 Thanks to Paul, I now have a picture of me under my canopy...Cool!
 
 <div id="attachment_141" style="width: 413px" class="wp-caption aligncenter">
-  <a href="https://blog.jolexa.net/wp-content/uploads/2008/10/n56001245_35124676_7665.jpg"><img class="size-full wp-image-141" title="landing_canopy" src="https://blog.jolexa.net/wp-content/uploads/2008/10/n56001245_35124676_7665.jpg" alt="Jeremy coming in to land" width="403" height="604" /></a>
+  <a href="/wp-content/uploads/2008/10/n56001245_35124676_7665.jpg"><img class="size-full wp-image-141" title="landing_canopy" src="/wp-content/uploads/2008/10/n56001245_35124676_7665.jpg" alt="Jeremy coming in to land" width="403" height="604" /></a>
   
   <p class="wp-caption-text">
     Jeremy coming in to land

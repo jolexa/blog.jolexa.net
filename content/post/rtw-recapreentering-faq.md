@@ -21,7 +21,7 @@ A: This is the most common question. If you really want me to sum up my favorite
 
 **Q: How much money did you spend? Did you work? How can you afford being unemployed for so long?**  
 A: Little known fact, traveling CAN be cheaper than living in a static place. Fun observation, I spent only $1,200 on lodging for the entire trip, or $85/month. I kept meticulous logs of my money so I knew when it was time to come home. Yes, I did save up money before I left. No, I am not in debt. Yes, I have less savings than I did before I left (of course). Yes, I worked on the road, bartender and skydiving instructor. Yes, I was couchsurfing sometimes.  
-<img class="alignleft size-full wp-image-3132" alt="grandtotal" src="https://blog.jolexa.net/wp-content/uploads/2013/12/Screen-Shot-2013-12-22-at-14.06.16-PM.png" width="325" height="216" />
+<img class="alignleft size-full wp-image-3132" alt="grandtotal" src="/wp-content/uploads/2013/12/Screen-Shot-2013-12-22-at-14.06.16-PM.png" width="325" height="216" />
 
 There are other cool stats, but it's not so important. Just know that it is completely possible to travel on less money than you think. If I had a one way ticket and only a few hundred dollars, I would still do it. There are many travel bloggers solely writing about traveling the world on $50/day or even less (shoestring).
 

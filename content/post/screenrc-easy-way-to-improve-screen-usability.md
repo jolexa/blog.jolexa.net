@@ -28,4 +28,4 @@ multiuser off
 defutf8 on</pre>
 
 Output (caption at bottom):  
-<img src="https://blog.jolexa.net/wp-content/uploads/2009/11/screenrc.jpg" alt="screenrc" title="screenrc" width="494" height="343" class="alignleft size-full wp-image-535" />
+<img src="/wp-content/uploads/2009/11/screenrc.jpg" alt="screenrc" title="screenrc" width="494" height="343" class="alignleft size-full wp-image-535" />

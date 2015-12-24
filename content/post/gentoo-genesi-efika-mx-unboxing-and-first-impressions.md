@@ -23,7 +23,7 @@ That HDMI output makes it the **best** text console I have ever seen on my 40" 1
   * And more...
 
 <div id="attachment_558" style="width: 310px" class="wp-caption alignleft">
-  <a href="https://blog.jolexa.net/wp-content/uploads/2009/12/pc030010.jpg"><img class="size-medium wp-image-558" title="efika-top" src="https://blog.jolexa.net/wp-content/uploads/2009/12/pc030010-300x224.jpg" alt="Size comparision of Efika MX vs Aspire1" width="300" height="224" /></a>
+  <a href="/wp-content/uploads/2009/12/pc030010.jpg"><img class="size-medium wp-image-558" title="efika-top" src="/wp-content/uploads/2009/12/pc030010-300x224.jpg" alt="Size comparision of Efika MX vs Aspire1" width="300" height="224" /></a>
   
   <p class="wp-caption-text">
     Size comparision of Efika MX vs Aspire1
@@ -31,7 +31,7 @@ That HDMI output makes it the **best** text console I have ever seen on my 40" 1
 </div>
 
 <div id="attachment_558" style="width: 310px" class="wp-caption alignleft">
-  <a href="https://blog.jolexa.net/wp-content/uploads/2009/12/pc030014.jpg"><img class="alignleft size-medium wp-image-561" title="efika-back" src="https://blog.jolexa.net/wp-content/uploads/2009/12/pc030014-300x224.jpg" alt="efika-back" width="300" height="224" /></a>
+  <a href="/wp-content/uploads/2009/12/pc030014.jpg"><img class="alignleft size-medium wp-image-561" title="efika-back" src="/wp-content/uploads/2009/12/pc030014-300x224.jpg" alt="efika-back" width="300" height="224" /></a>
   
   <p class="wp-caption-text">
     Back of the Efika MX. Power, HDMI, Ethernet, headphone, mic
@@ -39,7 +39,7 @@ That HDMI output makes it the **best** text console I have ever seen on my 40" 1
 </div>
 
 <div id="attachment_564" style="width: 310px" class="wp-caption alignleft">
-  <a href="https://blog.jolexa.net/wp-content/uploads/2009/12/pc030016.jpg"><img class="size-medium wp-image-564" title="pc030016" src="https://blog.jolexa.net/wp-content/uploads/2009/12/pc030016-300x224.jpg" alt="efika-front" width="300" height="224" /></a>
+  <a href="/wp-content/uploads/2009/12/pc030016.jpg"><img class="size-medium wp-image-564" title="pc030016" src="/wp-content/uploads/2009/12/pc030016-300x224.jpg" alt="efika-front" width="300" height="224" /></a>
   
   <p class="wp-caption-text">
     Front of Efika MX. USB, USB, SD Card Slot
