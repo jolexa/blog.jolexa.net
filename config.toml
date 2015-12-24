@@ -10,8 +10,8 @@ category = "categories"
 	github = "jolexa"
 	keybase = "jolexa"
 	author = "Jeremy Olexa"
-	contact = "mailto:foo@example.com"
-	bio = "short bio here"
+	contact = "mailto:info@jolexa.net?subject='Inquiry from blog'"
+	bio = "Random stuff that I write and make public to the interwebs. I am a tech enthusiast, so some posts are about tech/software. However, as of late, most will be about traveling. I hope you enjoy and find something useful."
 	recentPosts = true
 	recentPostDisplayCount = 5
 	categories = true
