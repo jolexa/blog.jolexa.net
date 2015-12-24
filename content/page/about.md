@@ -3,6 +3,7 @@ id: 9
 title: About Me / Contact
 author: Jeremy Olexa
 layout: page
+showthedate: false
 guid: http://blog.jolexa.net/about-2/
 aliases:
 - "/about"
