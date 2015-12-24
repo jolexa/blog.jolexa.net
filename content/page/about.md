@@ -4,6 +4,8 @@ title: About Me / Contact
 author: Jeremy Olexa
 layout: page
 guid: http://blog.jolexa.net/about-2/
+aliases:
+- "/about"
 ---
 **A rough timeline of some life events that is fitting for an &#8220;About&#8221; page:**
 
