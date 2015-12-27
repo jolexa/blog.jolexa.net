@@ -1,0 +1,4 @@
+[submodule "themes/vienna"]
+	path = themes/vienna
+	url = https://github.com/jolexa/vienna.git
+	branch = blog.jolexa.net
