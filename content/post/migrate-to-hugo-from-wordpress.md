@@ -33,7 +33,7 @@ is cost, but this blog should cost me less than 1 USD per month, so ~90% cost
 reduction.
 
 ## Why Hugo?
-There are [many static site generated](https://www.staticgen.com/) out there
+There are [many static site generators](https://www.staticgen.com/) out there
 but I picked Hugo because of a few reasons. The main reason was that it was
 written in [Go](https://golang.org/) and I'm betting that I will desire some Go
 experience in my future. (Buzzword: Microservices). In addition, the theme
