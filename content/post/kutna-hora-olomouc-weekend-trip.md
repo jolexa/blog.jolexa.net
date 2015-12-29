@@ -7,7 +7,7 @@ guid: http://blog.jolexa.net/?p=1219
 id: 1219
 tags:
 - Czech Republic
-- Kutná Hora
+- Kutna Hora
 - Olomouc
 title: Kutná Hora / Olomouc weekend trip
 slug: /post/kutna-hora-olomouc-weekend-trip/
