@@ -6,8 +6,8 @@ title = "Writing a Lambda Function for Hugo"
 +++
 
 This post will describe how I choose to implement an AWS Lambda function to
-build a static website. As I alluded to in the (previous
-post)[/post/migrate-to-hugo-from-wordpress/], here are the details.
+build a static website. As I alluded to in the [previous
+post](/post/migrate-to-hugo-from-wordpress/), here are the details.
 
 {{< tweet 681685189194481664 >}}
 
